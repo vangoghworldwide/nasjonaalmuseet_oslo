@@ -1,0 +1,1578 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ObjectList>
+  <Object>
+    <objectWorkType>Drawing</objectWorkType>
+    <legalBodyID>http://www.nasjonalmuseet.no/en/</legalBodyID>
+    <legalBodyName>The National Museum of Art, Architecture and Design</legalBodyName>
+	<legalBodyViaf>http://viaf.org/viaf/156373184</legalBodyViaf>
+    <legalBodyPlace>Oslo</legalBodyPlace>
+    <placeID>http://vocab.getty.edu/page/tgn/7003650</placeID>
+    <legalBodyWeblink>http://www.nasjonalmuseet.no/en/</legalBodyWeblink>
+    <Edition></Edition>
+    <Edition_number></Edition_number>
+    <Edition_notes></Edition_notes>
+    <Edition_exemplar> </Edition_exemplar>
+    <technique_AAT>pens (drawing and writing implements);[http://vocab.getty.edu/aat/300022452]
+pencils (drawing and writing equipment);[http://vocab.getty.edu/aat/300022452, http://vocab.getty.edu/aat/300022439]</technique_AAT>
+    <material_AAT>paper (fiber product);[http://vocab.getty.edu/aat/300014109]</material_AAT>
+    <objectWorkTypeAAT>http://vocab.getty.edu/aat/300033973</objectWorkTypeAAT>
+    <Technique_MaterialList>
+      <Technique_Material>
+        <Language>English</Language>
+        <Technique_and_Material>Reed and quill pen and ink and pencil on paper</Technique_and_Material>
+      </Technique_Material>
+    </Technique_MaterialList>
+    <Obj_CopyrightsList>
+      <Obj_Copyrights>
+        <Obj_CopyrightsDateTo>01.01.1960</Obj_CopyrightsDateTo>
+        <Obj_CopyrightsStatus>inactive</Obj_CopyrightsStatus>
+        <Obj_CopyrightsTerms></Obj_CopyrightsTerms>
+        <Obj_CopyrightsHolder>Vincent van Gogh, 1853-1890</Obj_CopyrightsHolder>
+      </Obj_Copyrights>
+    </Obj_CopyrightsList>
+    <Obj_InventoryNumberList>
+      <Obj_InventoryNumber>
+        <workId>NG.K&amp;H.B.00068</workId>
+      </Obj_InventoryNumber>
+    </Obj_InventoryNumberList>
+    <Obj_ClassificationList>
+      <Obj_Classification>
+        <classification>532 - Bildende kunst</classification>
+      </Obj_Classification>
+    </Obj_ClassificationList>
+    <TitleList>
+      <Title>
+        <Title>View of Arles from Montmajour</Title>
+        <Title_language>English</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+      <Title>
+        <Title>Utsikt mot Arles fra Montmajour</Title>
+        <Title_language>Norwegian</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+      <Title>
+        <Title>Utsikt over Arles</Title>
+        <Title_language>Norwegian</Title_language>
+        <Title_type>previously used</Title_type>
+      </Title>
+      <Title>
+        <Title>Vue d'Arles prise de Montmajour</Title>
+        <Title_language>French</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+    </TitleList>
+    <ObjKeywordsGrpList>
+      <ObjKeywordsGrp>
+        <keywords>Visual art</keywords>
+      </ObjKeywordsGrp>
+    </ObjKeywordsGrpList>
+    <SubjectKeywordsGrpList/>
+    <DimensionsList>
+      <Dimensions>
+        <DimensionsNO>480 x 590 mm</DimensionsNO>
+        <DimensionsEN>480 x 590 mm</DimensionsEN>
+      </Dimensions>
+    </DimensionsList>
+    <ProvenanceList>
+      <Provenance>
+        <provenance_DateFrom>1893</provenance_DateFrom>
+        <provenance_DateTo>1905</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>H. Chr. Christensen</provenance_name>
+        <provenance_Role>[40] Previous owner</provenance_Role>
+        <provenance_eventType>Ownership</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description>Kjøpt på Den frie Udstilling i København i 1893, jfr. Messel 2016.</provenance_description>
+        <provenance_datingcomment_></provenance_datingcomment_>
+        <provenance_name_Viaf></provenance_name_Viaf>
+        <provenance_name_Ulan></provenance_name_Ulan>
+        <provenance_eventTypeAAT>http://vocab.getty.edu/aat/300055603</provenance_eventTypeAAT>
+        <provenance_RoleAAT>http://vocab.getty.edu/aat/300203630</provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom>1905</provenance_DateFrom>
+        <provenance_DateTo>1905</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Thorvald Erichsen</provenance_name>
+        <provenance_Role>[50] Intermediary of gift or purchase</provenance_Role>
+        <provenance_eventType>Offer</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description></provenance_description>
+        <provenance_datingcomment_></provenance_datingcomment_>
+        <provenance_name_Viaf>http://viaf.org/viaf/15044994</provenance_name_Viaf>
+        <provenance_name_Ulan>http://vocab.getty.edu/ulan/500082102</provenance_name_Ulan>
+        <provenance_eventTypeAAT></provenance_eventTypeAAT>
+        <provenance_RoleAAT></provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom>1891</provenance_DateFrom>
+        <provenance_DateTo>1893</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Vincent Willem van Gogh</provenance_name>
+        <provenance_Role>[40] Previous owner</provenance_Role>
+        <provenance_eventType>Ownership</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description>Arven administrert av hans mor Joanna van Gogh-Bonger. Solgt av henne til Hans Chr. Christensen på Den frie Udstilling i 1893.</provenance_description>
+        <provenance_datingcomment_></provenance_datingcomment_>
+        <provenance_name_Viaf>http://viaf.org/viaf/17230578</provenance_name_Viaf>
+        <provenance_name_Ulan>http://vocab.getty.edu/ulan/500341187</provenance_name_Ulan>
+        <provenance_eventTypeAAT>http://vocab.getty.edu/aat/300055603</provenance_eventTypeAAT>
+        <provenance_RoleAAT>http://vocab.getty.edu/aat/300203630</provenance_RoleAAT>
+      </Provenance>
+    </ProvenanceList>
+    <Related_objectsList/>
+    <ObjStylePeriodList/>
+    <ObjSubjectTypeList>
+      <ObjSubjectType>
+        <subject_Type>Landscape</subject_Type>
+        <subject_TypeAAT>http://vocab.getty.edu/aat/300015636</subject_TypeAAT>
+      </ObjSubjectType>
+    </ObjSubjectTypeList>
+    <CreditlineList>
+      <Creditline>
+        <creditline_NO>Kjøpt 1905</creditline_NO>
+        <creditline_EN>Purchased 1905</creditline_EN>
+      </Creditline>
+    </CreditlineList>
+    <ProductionList>
+      <Production>
+        <production_actor_Name>Vincent van Gogh</production_actor_Name>
+        <production_Dating>Jfr. Ives m.fl. 2005. Wolk, Pickvance og Pey 1990: Mai. Faille 1992: Tidlig i juni. Heugten 2005: Mai.</production_Dating>
+        <production_DateFrom>27.05.1888</production_DateFrom>
+        <production_DateTo>29.05.1888</production_DateTo>
+        <production_actor_Role>Artist</production_actor_Role>
+        <production_dating_DisplayNO>Mellom 27. og 29. mai 1988</production_dating_DisplayNO>
+        <production_eventType>Produced</production_eventType>
+        <production_actor_DateFrom>1853</production_actor_DateFrom>
+        <production_actor_DateTo>1890</production_actor_DateTo>
+        <production_Place>Montmajour, Arles (Frankrike)</production_Place>
+        <production_PlaceType>Place of production</production_PlaceType>
+        <production_PlaceTgn>http://vocab.getty.edu/tgn/7008783</production_PlaceTgn>
+        <production_dating_DisplayEN>Between 27 and 29 May 1988</production_dating_DisplayEN>
+        <production_actor_Viaf>http://viaf.org/viaf/9854560</production_actor_Viaf>
+        <production_actor_Ulan>http://vocab.getty.edu/ulan/500115588</production_actor_Ulan>
+      </Production>
+    </ProductionList>
+    <ExhibitionList>
+      <Exhibition>
+        <exhibition_Title>Van Gogh: Heartfelt Lines</exhibition_Title>
+        <exhibition_DateFrom>05.09.2008</exhibition_DateFrom>
+        <exhibition_DateTo>08.12.2008</exhibition_DateTo>
+        <exhibition_Venue_>Graphische Sammlung Albertina</exhibition_Venue_>
+        <exhibition_Place_>Wien (Østerrike)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7003321</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500224093</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Vincent van Gogh. The Drawings</exhibition_Title>
+        <exhibition_DateFrom>12.10.2005</exhibition_DateFrom>
+        <exhibition_DateTo>31.12.2005</exhibition_DateTo>
+        <exhibition_Venue_>The Metropolitan Museum of Art</exhibition_Venue_>
+        <exhibition_Place_>New York (USA)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7007567</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500125157</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Månedens bilde: Juli - august</exhibition_Title>
+        <exhibition_DateFrom>02.07.2002</exhibition_DateFrom>
+        <exhibition_DateTo>20.08.2002</exhibition_DateTo>
+        <exhibition_Venue_>Nasjonalgalleriet</exhibition_Venue_>
+        <exhibition_Place_>Universitetsgata 13, Nasjonalgalleriet, Oslo, Oslo (fylke) (Norge)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7009573</exhibition_PlaceTgn>
+        <exhibition_VenueUlan></exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Van Gogh tekenaar: de meesterwerken</exhibition_Title>
+        <exhibition_DateFrom>01.07.2005</exhibition_DateFrom>
+        <exhibition_DateTo>18.09.2005</exhibition_DateTo>
+        <exhibition_Venue_>Van Gogh Museum</exhibition_Venue_>
+        <exhibition_Place_>Amsterdam (Nederland)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7006952</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500275558</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Vincent van Gogh</exhibition_Title>
+        <exhibition_DateFrom>30.03.1990</exhibition_DateFrom>
+        <exhibition_DateTo>29.07.1990</exhibition_DateTo>
+        <exhibition_Venue_>Rijksmuseum Kröller-Müller</exhibition_Venue_>
+        <exhibition_Place_>Otterlo (Nederland)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7006900</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500235923</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Gauguin og van Gogh i København i 1893</exhibition_Title>
+        <exhibition_DateFrom>12.12.1984</exhibition_DateFrom>
+        <exhibition_DateTo>10.02.1985</exhibition_DateTo>
+        <exhibition_Venue_>Ordrupgaard</exhibition_Venue_>
+        <exhibition_Place_>Vilvordevej 110, Charlottenlund (Danmark)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/8716277</exhibition_PlaceTgn>
+        <exhibition_VenueUlan></exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Becoming Van Gogh: His Years in Paris</exhibition_Title>
+        <exhibition_DateFrom>20.09.2012</exhibition_DateFrom>
+        <exhibition_DateTo>20.01.2013</exhibition_DateTo>
+        <exhibition_Venue_>Denver Art Museum</exhibition_Venue_>
+        <exhibition_Place_>Denver, Colorado (USA)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7013545</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500242559</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Van Gogh in Arles</exhibition_Title>
+        <exhibition_DateFrom>18.10.1984</exhibition_DateFrom>
+        <exhibition_DateTo>30.12.1984</exhibition_DateTo>
+        <exhibition_Venue_>The Metropolitan Museum of Art</exhibition_Venue_>
+        <exhibition_Place_>New York (USA)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7007567</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500125157</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>The Real Van Gogh: The Artist and His Letters</exhibition_Title>
+        <exhibition_DateFrom>23.01.2010</exhibition_DateFrom>
+        <exhibition_DateTo>18.04.2010</exhibition_DateTo>
+        <exhibition_Venue_>Royal Academy of Arts</exhibition_Venue_>
+        <exhibition_Place_>London (Storbritannia)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7011781</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500115632</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Den Frie Udstilling 1893</exhibition_Title>
+        <exhibition_DateFrom>26.03.1893</exhibition_DateFrom>
+        <exhibition_DateTo>05.1893</exhibition_DateTo>
+        <exhibition_Venue_>Vesterport Passage</exhibition_Venue_>
+        <exhibition_Place_>København (Danmark)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7003474</exhibition_PlaceTgn>
+        <exhibition_VenueUlan></exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Vincent van Gogh: Zeichnungen und Aquarelle</exhibition_Title>
+        <exhibition_DateFrom>23.05.1961</exhibition_DateFrom>
+        <exhibition_DateTo>25.06.1961</exhibition_DateTo>
+        <exhibition_Venue_>Städtische Galerie</exhibition_Venue_>
+        <exhibition_Place_>München (Tyskland)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7004333</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500250652</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Vincent van Gogh: Zeichnungen und Aquarelle</exhibition_Title>
+        <exhibition_DateFrom>30.04.1970</exhibition_DateFrom>
+        <exhibition_DateTo>21.06.1970</exhibition_DateTo>
+        <exhibition_Venue_>Frankfurter Kunstverein</exhibition_Venue_>
+        <exhibition_Place_>Frankfurt am Main (Tyskland)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7005293</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500305347</exhibition_VenueUlan>
+      </Exhibition>
+    </ExhibitionList>
+    <LiteratureList>
+      <Literature>
+        <literature_reference>Hulsker, Jan. The Complete van Gogh. Paintings. Drawings. Sketches. New York, 1977.</literature_reference>
+        <literature_Page_Ref>322–4; kat.nr. 1437</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Tellegen, Annet. «Van Gogh en Montmajour». Bulletin Museum Boymans-van Beuningen 18, nr. 1 (1967): 16–33.</literature_reference>
+        <literature_Page_Ref></literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Messel, Nils. «van Gogh og Arles». Numer, nr. 34 (2010): 24–25.</literature_reference>
+        <literature_Page_Ref></literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Dvergsdal, Arne. «Gamle mestere fram i lyset». Dagbladet 28.1.2002, 2002.</literature_reference>
+        <literature_Page_Ref></literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Heugten, Sjaar van. Van Gogh draughtsman. The masterpieces. Amsterdam: Van Gogh Museum, 2005.</literature_reference>
+        <literature_Page_Ref>118, 120, 189</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Gran, Henning. «Vincent van Gogh og Danmark og Norge». Ord och Bild, nr. 9 (1953): 513–22.</literature_reference>
+        <literature_Page_Ref></literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Faille, Jacob-Baart de la. Vincent van Gogh. The Complete Works on Paper. San Francisco: Alan Wofsy Fine Arts, 1992.</literature_reference>
+        <literature_Page_Ref>138, 378; kat.nr. 1452; pl. CLVIII</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Ives, Colta, et al. Vincent van Gogh: The Drawings. New York: The Metropolitan Museum of Art, 2005. https://books.google.no/books?printsec=frontcover&amp;id=rqQj_0Tm84IC&amp;redir_esc=y#v=onepage&amp;q&amp;f=false.</literature_reference>
+        <literature_Page_Ref>27, 162, 163; kat.nr. 47</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Wolk, Johannes van der, et al. Vincent van Gogh: Drawings. Milano: Mondadori, 1990.</literature_reference>
+        <literature_Page_Ref>256; kat.nr. 183</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Messel, Nils. Franske forbindelser: Kunst, kapital og konjunkturer i Norge rundt 1. verdenskrig. Oslo: Messel Forlag, 2016.</literature_reference>
+        <literature_Page_Ref>50, 51</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Faille, Jacob-Baart de la. The Works of Vincent van Gogh. His Paintings and Drawings. London: Weidenfeld and Nicolson, 1970.</literature_reference>
+        <literature_Page_Ref>kat.nr. 1452</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Tilborgh, Ouis van, et al. «Sunset at Montmajour: a newly discovered painting by Vincent van Gogh». The Burlington Magazine 155, nr. 1327 (2013): 696–705.</literature_reference>
+        <literature_Page_Ref>702, 704–5; note 64</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Vellekoop, Marije, et al. Vincent van Gogh: Drawings: Vol. 4: Arles, Saint-Rémy &amp; Auvers-sur-Oise. Amsterdam: Van Gogh Museum, 2007.</literature_reference>
+        <literature_Page_Ref>135–8, 139; fig. 342d</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Pickvance, Ronald. Van Gogh in Arles. New York: The Metropolitan Museum of Art, 1984. https://books.google.no/books?id=lXBwYseY1uYC&amp;printsec=frontcover&amp;redir_esc=y#v=onepage&amp;q&amp;f=false.</literature_reference>
+        <literature_Page_Ref>81–2; kat.nr. 33</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Skedsmo, Tone. Tullinløkka - plass for museum! Oslo: Nasjonalgalleriet, 1997. https://urn.nb.no/URN:NBN:no-nb_digibok_2015070208148.</literature_reference>
+        <literature_Page_Ref>14</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Carl B. Gunnarsson. «Tegninger av van Gogh i Nasjonalgalleriet». Kunst og kultur 39 (1956): 245–52.</literature_reference>
+        <literature_Page_Ref>251–2</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Schröder, Klaus Albrecht, et al., red. Van Gogh: Heartfelt Lines. Cologne: DuMont, 2008.</literature_reference>
+        <literature_Page_Ref>261–4; kat.nr. 67</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Jansen, Leo, et al. The Real van Gogh: the artist and his letters. London: Royal Academy of Arts, 2010.</literature_reference>
+        <literature_Page_Ref>170; kat.nr. 93</literature_Page_Ref>
+      </Literature>
+    </LiteratureList>
+    <MultimediaList>
+      <Multimedia>
+        <image_Filename>NG.K&amp;H.B.00068_PUBLISERING.tif</image_Filename>
+        <image_License>Free use: Creative Commons - Attribution CC-BY</image_License>
+        <image_Creditline>Nasjonalmuseet</image_Creditline>
+        <image_Photographer>Børre Høstland</image_Photographer>
+      </Multimedia>
+      <Multimedia>
+        <image_Filename>NG.K&amp;H.B.00068_VERSO.tif</image_Filename>
+        <image_License>Free use: Creative Commons - Attribution CC-BY</image_License>
+        <image_Creditline>Nasjonalmuseet</image_Creditline>
+        <image_Photographer>Børre Høstland</image_Photographer>
+      </Multimedia>
+    </MultimediaList>
+	<Inscriptions_marksList>
+      <Inscriptions_marks>
+        <Inscription_type>Inscription</Inscription_type>
+        <Inscritiption_type_specification>signature</Inscritiption_type_specification>
+        <Inscription_primary_secundary>Primary</Inscription_primary_secundary>
+        <Inscription_text>Vincent</Inscription_text>
+        <Inscription_position>Nede venstre / lower left</Inscription_position>
+        <Inscription_method>Handwritten</Inscription_method>
+        <Inscription_medium>Penn</Inscription_medium>
+        <Inscription_inscriber>Vincent van Gogh</Inscription_inscriber>
+      </Inscriptions_marks>
+      <Inscriptions_marks>
+        <Inscription_type>Inscription</Inscription_type>
+        <Inscritiption_type_specification>numbering</Inscritiption_type_specification>
+        <Inscription_primary_secundary>Secondary</Inscription_primary_secundary>
+        <Inscription_text>[Verso:] No. 6</Inscription_text>
+        <Inscription_position>Verso, øvre høyre / upper right</Inscription_position>
+        <Inscription_method>Handwritten</Inscription_method>
+        <Inscription_medium>Penn</Inscription_medium>
+        <Inscription_inscriber>Johanna van Gogh-Bonger?</Inscription_inscriber>
+      </Inscriptions_marks>
+    </Inscriptions_marksList>
+  </Object>
+  <Object>
+    <objectWorkType>Drawing</objectWorkType>
+    <legalBodyID>http://www.nasjonalmuseet.no/en/</legalBodyID>
+    <legalBodyName>The National Museum of Art, Architecture and Design</legalBodyName>
+	<legalBodyViaf>http://viaf.org/viaf/156373184</legalBodyViaf>
+    <legalBodyPlace>Oslo</legalBodyPlace>
+    <placeID>http://vocab.getty.edu/page/tgn/7003650</placeID>
+    <legalBodyWeblink>http://www.nasjonalmuseet.no/en/</legalBodyWeblink>
+    <Edition></Edition>
+    <Edition_number></Edition_number>
+    <Edition_notes></Edition_notes>
+    <Edition_exemplar> </Edition_exemplar>
+    <technique_AAT>black chalk;[http://vocab.getty.edu/aat/300080058]</technique_AAT>
+    <material_AAT>paper (fiber product);[http://vocab.getty.edu/aat/300014109]</material_AAT>
+    <objectWorkTypeAAT>http://vocab.getty.edu/aat/300033973</objectWorkTypeAAT>
+    <Technique_MaterialList>
+      <Technique_Material>
+        <Language>English</Language>
+        <Technique_and_Material>Black chalk on paper</Technique_and_Material>
+      </Technique_Material>
+    </Technique_MaterialList>
+    <Obj_CopyrightsList>
+      <Obj_Copyrights>
+        <Obj_CopyrightsDateTo>01.01.1960</Obj_CopyrightsDateTo>
+        <Obj_CopyrightsStatus>inactive</Obj_CopyrightsStatus>
+        <Obj_CopyrightsTerms></Obj_CopyrightsTerms>
+        <Obj_CopyrightsHolder>Vincent van Gogh, 1853-1890</Obj_CopyrightsHolder>
+      </Obj_Copyrights>
+    </Obj_CopyrightsList>
+    <Obj_InventoryNumberList>
+      <Obj_InventoryNumber>
+        <workId>NG.K&amp;H.B.00164</workId>
+      </Obj_InventoryNumber>
+    </Obj_InventoryNumberList>
+    <Obj_ClassificationList>
+      <Obj_Classification>
+        <classification>532 - Bildende kunst</classification>
+      </Obj_Classification>
+    </Obj_ClassificationList>
+    <TitleList>
+      <Title>
+        <Title>Peasant digging</Title>
+        <Title_language>English</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+      <Title>
+        <Title>Bonde med spade</Title>
+        <Title_language>Norwegian</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+      <Title>
+        <Title>Peasant Boy Digging</Title>
+        <Title_language>English</Title_language>
+        <Title_type>previously used</Title_type>
+      </Title>
+      <Title>
+        <Title>Young peasant, digging: facing right</Title>
+        <Title_language>English</Title_language>
+        <Title_type>previously used</Title_type>
+      </Title>
+      <Title>
+        <Title>Mann med spade</Title>
+        <Title_language>Norwegian</Title_language>
+        <Title_type>previously used</Title_type>
+      </Title>
+      <Title>
+        <Title>Jeune paysan bêchant</Title>
+        <Title_language>French</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+    </TitleList>
+    <ObjKeywordsGrpList>
+      <ObjKeywordsGrp>
+        <keywords>Visual art</keywords>
+      </ObjKeywordsGrp>
+    </ObjKeywordsGrpList>
+    <SubjectKeywordsGrpList>
+      <SubjectKeywordsGrp>
+        <subject_Keywords>Working life</subject_Keywords>
+      </SubjectKeywordsGrp>
+    </SubjectKeywordsGrpList>
+    <DimensionsList>
+      <Dimensions>
+        <DimensionsNO>530 x 400 mm</DimensionsNO>
+        <DimensionsEN>530 x 400 mm</DimensionsEN>
+      </Dimensions>
+    </DimensionsList>
+    <ProvenanceList>
+      <Provenance>
+        <provenance_DateFrom></provenance_DateFrom>
+        <provenance_DateTo>1919</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Alphonse Kann</provenance_name>
+        <provenance_Role>[40] Previous owner</provenance_Role>
+        <provenance_eventType>Ownership</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description>jfr. Messel, 2016</provenance_description>
+        <provenance_datingcomment_></provenance_datingcomment_>
+        <provenance_name_Viaf>http://viaf.org/viaf/70006976</provenance_name_Viaf>
+        <provenance_name_Ulan>http://vocab.getty.edu/ulan/500440138</provenance_name_Ulan>
+        <provenance_eventTypeAAT>http://vocab.getty.edu/aat/300055603</provenance_eventTypeAAT>
+        <provenance_RoleAAT>http://vocab.getty.edu/aat/300203630</provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom>1919</provenance_DateFrom>
+        <provenance_DateTo>1919</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Walther Halvorsen</provenance_name>
+        <provenance_Role>[50] Intermediary of gift or purchase</provenance_Role>
+        <provenance_eventType>Offer</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description>Jfr. Faille 1992</provenance_description>
+        <provenance_datingcomment_></provenance_datingcomment_>
+        <provenance_name_Viaf>http://viaf.org/viaf/594156253584908110001</provenance_name_Viaf>
+        <provenance_name_Ulan></provenance_name_Ulan>
+        <provenance_eventTypeAAT></provenance_eventTypeAAT>
+        <provenance_RoleAAT></provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom>1919</provenance_DateFrom>
+        <provenance_DateTo>1919</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Thorvald Hellesen</provenance_name>
+        <provenance_Role>[50] Intermediary of gift or purchase</provenance_Role>
+        <provenance_eventType>Offer</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description>Jfr. Faille 1992. </provenance_description>
+        <provenance_datingcomment_></provenance_datingcomment_>
+        <provenance_name_Viaf>http://viaf.org/viaf/50035011</provenance_name_Viaf>
+        <provenance_name_Ulan>http://vocab.getty.edu/ulan/500144997</provenance_name_Ulan>
+        <provenance_eventTypeAAT></provenance_eventTypeAAT>
+        <provenance_RoleAAT></provenance_RoleAAT>
+      </Provenance>
+    </ProvenanceList>
+    <Related_objectsList/>
+    <ObjStylePeriodList/>
+    <ObjSubjectTypeList>
+      <ObjSubjectType>
+        <subject_Type>Figure study</subject_Type>
+        <subject_TypeAAT>http://vocab.getty.edu/aat/300189808</subject_TypeAAT>
+      </ObjSubjectType>
+    </ObjSubjectTypeList>
+    <CreditlineList>
+      <Creditline>
+        <creditline_NO>Gave fra Nasjonalgalleriets Venner 1919</creditline_NO>
+        <creditline_EN>Gift from the Friends of the National Gallery 1919</creditline_EN>
+      </Creditline>
+    </CreditlineList>
+    <ProductionList>
+      <Production>
+        <production_actor_Name>Vincent van Gogh</production_actor_Name>
+        <production_Dating>Juni-august, jfr. Faille 1992. Vanberelaere 1937: September-oktober 1885. Lignende bonde datert juli-september Heugten 1997, kat.nr. 190. JH 849. Datert juli 1885 i utst.kat. London 2010.</production_Dating>
+        <production_DateFrom>06.1885</production_DateFrom>
+        <production_DateTo>08.1885</production_DateTo>
+        <production_actor_Role>Artist</production_actor_Role>
+        <production_dating_DisplayNO>Mellom juni og august 1885</production_dating_DisplayNO>
+        <production_eventType>Produced</production_eventType>
+        <production_actor_DateFrom>1853</production_actor_DateFrom>
+        <production_actor_DateTo>1890</production_actor_DateTo>
+        <production_Place>Nuenen, Noord-Brabant (Nederland)</production_Place>
+        <production_PlaceType>Place of production</production_PlaceType>
+        <production_PlaceTgn>http://vocab.getty.edu/tgn/7006835</production_PlaceTgn>
+        <production_dating_DisplayEN>Between June and August 1885</production_dating_DisplayEN>
+        <production_actor_Viaf>http://viaf.org/viaf/9854560</production_actor_Viaf>
+        <production_actor_Ulan>http://vocab.getty.edu/ulan/500115588</production_actor_Ulan>
+      </Production>
+    </ProductionList>
+    <ExhibitionList>
+      <Exhibition>
+        <exhibition_Title>The Real Van Gogh: The Artist and His Letters</exhibition_Title>
+        <exhibition_DateFrom>23.01.2010</exhibition_DateFrom>
+        <exhibition_DateTo>18.04.2010</exhibition_DateTo>
+        <exhibition_Venue_>Royal Academy of Arts</exhibition_Venue_>
+        <exhibition_Place_>London (Storbritannia)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7011781</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500115632</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>L'impressionismo e l'età di van Gogh</exhibition_Title>
+        <exhibition_DateFrom>09.11.2002</exhibition_DateFrom>
+        <exhibition_DateTo>13.04.2003</exhibition_DateTo>
+        <exhibition_Venue_>Casa dei Carraresi</exhibition_Venue_>
+        <exhibition_Place_>Treviso (Italia)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7003297</exhibition_PlaceTgn>
+        <exhibition_VenueUlan></exhibition_VenueUlan>
+      </Exhibition>
+    </ExhibitionList>
+    <LiteratureList>
+      <Literature>
+        <literature_reference>Goldin, Marco, red. L’impressionismo e l’età di van Gogh. Treviso: Linea d’ombra Libri, 2002.</literature_reference>
+        <literature_Page_Ref>412, 460; kat.nr. 130</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Hulsker, Jan. The Complete van Gogh. Paintings. Drawings. Sketches. New York, 1977.</literature_reference>
+        <literature_Page_Ref>190; kat.nr. 851</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Vanbeselaere, Walther. De Hollandsche periode (1880-1885) in het werk van Vincent van Gogh (1853-1890). Antwerpen: De Sikkel, 1937.</literature_reference>
+        <literature_Page_Ref>275, 413</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Faille, Jacob-Baart de la. Vincent van Gogh. The Complete Works on Paper. San Francisco: Alan Wofsy Fine Arts, 1992.</literature_reference>
+        <literature_Page_Ref>106, 335; kat.nr. 1306; pl. CXX</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Messel, Nils. Franske forbindelser: Kunst, kapital og konjunkturer i Norge rundt 1. verdenskrig. Oslo: Messel Forlag, 2016.</literature_reference>
+        <literature_Page_Ref>168</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Carl B. Gunnarsson. «Tegninger av van Gogh i Nasjonalgalleriet». Kunst og kultur 39 (1956): 245–52.</literature_reference>
+        <literature_Page_Ref>247–8</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Stolwijk, Chris. The account book of Theo van Gogh and Jo van Gogh-Bonger. Amsterdam ; Leiden: Van Gogh Museum, Primavera, 2002.</literature_reference>
+        <literature_Page_Ref>20, note 33</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Meedendorp, Teio. Drawings and prints of Vincent van Gogh in the Collection of the Kröller-Müller Museum. Otterlo: Thieme GrafiMedia Groep, 2007.</literature_reference>
+        <literature_Page_Ref>312–5</literature_Page_Ref>
+      </Literature>
+    </LiteratureList>
+    <MultimediaList>
+      <Multimedia>
+        <image_Filename>NG.K&H.B.00164.tif</image_Filename>
+        <image_License>Free use: Creative Commons - Attribution CC-BY</image_License>
+        <image_Creditline>Nasjonalmuseet</image_Creditline>
+        <image_Photographer>Jacques Lathion</image_Photographer>
+      </Multimedia>
+    </MultimediaList>
+  </Object>
+  <Object>
+    <objectWorkType>Drawing</objectWorkType>
+    <legalBodyID>http://www.nasjonalmuseet.no/en/</legalBodyID>
+    <legalBodyName>The National Museum of Art, Architecture and Design</legalBodyName>
+	<legalBodyViaf>http://viaf.org/viaf/156373184</legalBodyViaf>
+    <legalBodyPlace>Oslo</legalBodyPlace>
+    <placeID>http://vocab.getty.edu/page/tgn/7003650</placeID>
+    <legalBodyWeblink>http://www.nasjonalmuseet.no/en/</legalBodyWeblink>
+    <Edition></Edition>
+    <Edition_number></Edition_number>
+    <Edition_notes></Edition_notes>
+    <Edition_exemplar> </Edition_exemplar>
+    <technique_AAT>black chalk;[http://vocab.getty.edu/aat/300080058]
+wash technique;[http://vocab.getty.edu/aat/300080058, http://vocab.getty.edu/aat/300182748]</technique_AAT>
+    <material_AAT>paper (fiber product);[http://vocab.getty.edu/aat/300014109]</material_AAT>
+    <objectWorkTypeAAT>http://vocab.getty.edu/aat/300033973</objectWorkTypeAAT>
+    <Technique_MaterialList>
+      <Technique_Material>
+        <Language>English</Language>
+        <Technique_and_Material>Black chalk and wash on paper</Technique_and_Material>
+      </Technique_Material>
+    </Technique_MaterialList>
+    <Obj_CopyrightsList>
+      <Obj_Copyrights>
+        <Obj_CopyrightsDateTo>01.01.1960</Obj_CopyrightsDateTo>
+        <Obj_CopyrightsStatus>inactive</Obj_CopyrightsStatus>
+        <Obj_CopyrightsTerms></Obj_CopyrightsTerms>
+        <Obj_CopyrightsHolder>Vincent van Gogh, 1853-1890</Obj_CopyrightsHolder>
+      </Obj_Copyrights>
+    </Obj_CopyrightsList>
+    <Obj_InventoryNumberList>
+      <Obj_InventoryNumber>
+        <workId>NG.K&amp;H.B.00165</workId>
+      </Obj_InventoryNumber>
+    </Obj_InventoryNumberList>
+    <Obj_ClassificationList>
+      <Obj_Classification>
+        <classification>532 - Bildende kunst</classification>
+      </Obj_Classification>
+    </Obj_ClassificationList>
+    <TitleList>
+      <Title>
+        <Title>Knielende boerin</Title>
+        <Title_language>Dutch</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+      <Title>
+        <Title>Peasant woman, kneeling: seen from behind</Title>
+        <Title_language>English</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+      <Title>
+        <Title>Paysanne creusant le sol</Title>
+        <Title_language>French</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+      <Title>
+        <Title>Bondekone som ligger på alle fire</Title>
+        <Title_language>Norwegian</Title_language>
+        <Title_type>previously used</Title_type>
+      </Title>
+      <Title>
+        <Title>Peasant woman, kneeling, seen from the back</Title>
+        <Title_language>English</Title_language>
+        <Title_type>previously used</Title_type>
+      </Title>
+      <Title>
+        <Title>Bondekone som graver i jorden</Title>
+        <Title_language>Norwegian</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+      <Title>
+        <Title>Paysanne, vue de dos, agenouillée dans uns champ de pommes de terre</Title>
+        <Title_language></Title_language>
+        <Title_type>previously used</Title_type>
+      </Title>
+      <Title>
+        <Title>Kvinne på kne</Title>
+        <Title_language>Norwegian</Title_language>
+        <Title_type>previously used</Title_type>
+      </Title>
+    </TitleList>
+    <ObjKeywordsGrpList>
+      <ObjKeywordsGrp>
+        <keywords>Visual art</keywords>
+      </ObjKeywordsGrp>
+    </ObjKeywordsGrpList>
+    <SubjectKeywordsGrpList>
+      <SubjectKeywordsGrp>
+        <subject_Keywords>Working life</subject_Keywords>
+      </SubjectKeywordsGrp>
+    </SubjectKeywordsGrpList>
+    <DimensionsList>
+      <Dimensions>
+        <DimensionsNO>430 x 520 mm</DimensionsNO>
+        <DimensionsEN>430 x 520 mm</DimensionsEN>
+      </Dimensions>
+    </DimensionsList>
+    <ProvenanceList>
+      <Provenance>
+        <provenance_DateFrom></provenance_DateFrom>
+        <provenance_DateTo>1919</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Alphonse Kann</provenance_name>
+        <provenance_Role>[40] Previous owner</provenance_Role>
+        <provenance_eventType>Ownership</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description>Jfr. Faille 1992</provenance_description>
+        <provenance_datingcomment_></provenance_datingcomment_>
+        <provenance_name_Viaf>http://viaf.org/viaf/70006976</provenance_name_Viaf>
+        <provenance_name_Ulan>http://vocab.getty.edu/ulan/500440138</provenance_name_Ulan>
+        <provenance_eventTypeAAT>http://vocab.getty.edu/aat/300055603</provenance_eventTypeAAT>
+        <provenance_RoleAAT>http://vocab.getty.edu/aat/300203630</provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom></provenance_DateFrom>
+        <provenance_DateTo>1911</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Cornelis Hoogendyk</provenance_name>
+        <provenance_Role>[40] Previous owner</provenance_Role>
+        <provenance_eventType>Ownership</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description>Avhendet ved salg, jfr. Faille 1928</provenance_description>
+        <provenance_datingcomment_>Tildato jfr. kunsthandlerens død. Solgt på auksjon 22.-23. mai 1912</provenance_datingcomment_>
+        <provenance_name_Viaf></provenance_name_Viaf>
+        <provenance_name_Ulan></provenance_name_Ulan>
+        <provenance_eventTypeAAT>http://vocab.getty.edu/aat/300055603</provenance_eventTypeAAT>
+        <provenance_RoleAAT>http://vocab.getty.edu/aat/300203630</provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom></provenance_DateFrom>
+        <provenance_DateTo>23.05.1912</provenance_DateTo>
+        <provenance_Place>Amsterdam (Nederland)</provenance_Place>
+        <provenance_PlaceTgn>http://vocab.getty.edu/tgn/7006952</provenance_PlaceTgn>
+        <provenance_name>Frederik Muller &amp; Cie.</provenance_name>
+        <provenance_Role>[35] Dealer</provenance_Role>
+        <provenance_eventType>Salg</provenance_eventType>
+        <provenance_PlaceType>Salgssted</provenance_PlaceType>
+        <provenance_description>Avhendet ved salg.</provenance_description>
+        <provenance_datingcomment_></provenance_datingcomment_>
+        <provenance_name_Viaf></provenance_name_Viaf>
+        <provenance_name_Ulan>http://vocab.getty.edu/ulan/500458216</provenance_name_Ulan>
+        <provenance_eventTypeAAT></provenance_eventTypeAAT>
+        <provenance_RoleAAT></provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom>1919</provenance_DateFrom>
+        <provenance_DateTo>1919</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Thorvald Hellesen</provenance_name>
+        <provenance_Role>[50] Intermediary of gift or purchase</provenance_Role>
+        <provenance_eventType>Offer</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description>Jfr. Faille 1928</provenance_description>
+        <provenance_datingcomment_></provenance_datingcomment_>
+        <provenance_name_Viaf>http://viaf.org/viaf/50035011</provenance_name_Viaf>
+        <provenance_name_Ulan>http://vocab.getty.edu/ulan/500144997</provenance_name_Ulan>
+        <provenance_eventTypeAAT></provenance_eventTypeAAT>
+        <provenance_RoleAAT></provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom>1919</provenance_DateFrom>
+        <provenance_DateTo>1919</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Walther Halvorsen</provenance_name>
+        <provenance_Role>[50] Intermediary of gift or purchase</provenance_Role>
+        <provenance_eventType>Offer</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description>Jfr. Faille 1928</provenance_description>
+        <provenance_datingcomment_></provenance_datingcomment_>
+        <provenance_name_Viaf>http://viaf.org/viaf/594156253584908110001</provenance_name_Viaf>
+        <provenance_name_Ulan></provenance_name_Ulan>
+        <provenance_eventTypeAAT></provenance_eventTypeAAT>
+        <provenance_RoleAAT></provenance_RoleAAT>
+      </Provenance>
+    </ProvenanceList>
+    <Related_objectsList/>
+    <ObjStylePeriodList/>
+    <ObjSubjectTypeList>
+      <ObjSubjectType>
+        <subject_Type>Figure study</subject_Type>
+        <subject_TypeAAT>http://vocab.getty.edu/aat/300189808</subject_TypeAAT>
+      </ObjSubjectType>
+    </ObjSubjectTypeList>
+    <CreditlineList>
+      <Creditline>
+        <creditline_NO>Gave fra Nasjonalgalleriets Venner 1919 </creditline_NO>
+        <creditline_EN>Gift from the Friends of the National Gallery 1919</creditline_EN>
+      </Creditline>
+    </CreditlineList>
+    <ProductionList>
+      <Production>
+        <production_actor_Name>Vincent van Gogh</production_actor_Name>
+        <production_Dating>Jfr. Faille 1970. Dateres til sommeren 1885 i Wolk, Pickvance og Pey 1990</production_Dating>
+        <production_DateFrom>08.1885</production_DateFrom>
+        <production_DateTo>08.1885</production_DateTo>
+        <production_actor_Role>Artist</production_actor_Role>
+        <production_dating_DisplayNO>(August 1885)</production_dating_DisplayNO>
+        <production_eventType>Produced</production_eventType>
+        <production_actor_DateFrom>1853</production_actor_DateFrom>
+        <production_actor_DateTo>1890</production_actor_DateTo>
+        <production_Place>Nuenen, Noord-Brabant (Nederland)</production_Place>
+        <production_PlaceType>Place of production</production_PlaceType>
+        <production_PlaceTgn>http://vocab.getty.edu/tgn/7006835</production_PlaceTgn>
+        <production_dating_DisplayEN>(August 1885)</production_dating_DisplayEN>
+        <production_actor_Viaf>http://viaf.org/viaf/9854560</production_actor_Viaf>
+        <production_actor_Ulan>http://vocab.getty.edu/ulan/500115588</production_actor_Ulan>
+      </Production>
+    </ProductionList>
+    <ExhibitionList>
+      <Exhibition>
+        <exhibition_Title>Van Gogh: Heartfelt Lines</exhibition_Title>
+        <exhibition_DateFrom>05.09.2008</exhibition_DateFrom>
+        <exhibition_DateTo>08.12.2008</exhibition_DateTo>
+        <exhibition_Venue_>Graphische Sammlung Albertina</exhibition_Venue_>
+        <exhibition_Place_>Wien (Østerrike)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7003321</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500224093</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Vincent van Gogh</exhibition_Title>
+        <exhibition_DateFrom>30.03.1990</exhibition_DateFrom>
+        <exhibition_DateTo>29.07.1990</exhibition_DateTo>
+        <exhibition_Venue_>Rijksmuseum Kröller-Müller</exhibition_Venue_>
+        <exhibition_Place_>Otterlo (Nederland)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7006900</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500235923</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>The Real Van Gogh: The Artist and His Letters</exhibition_Title>
+        <exhibition_DateFrom>23.01.2010</exhibition_DateFrom>
+        <exhibition_DateTo>18.04.2010</exhibition_DateTo>
+        <exhibition_Venue_>Royal Academy of Arts</exhibition_Venue_>
+        <exhibition_Place_>London (Storbritannia)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7011781</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500115632</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Vincent van Gogh: Zeichnungen und Aquarelle</exhibition_Title>
+        <exhibition_DateFrom>30.04.1970</exhibition_DateFrom>
+        <exhibition_DateTo>21.06.1970</exhibition_DateTo>
+        <exhibition_Venue_>Frankfurter Kunstverein</exhibition_Venue_>
+        <exhibition_Place_>Frankfurt am Main (Tyskland)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7005293</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500305347</exhibition_VenueUlan>
+      </Exhibition>
+    </ExhibitionList>
+    <LiteratureList>
+      <Literature>
+        <literature_reference>Hulsker, Jan. The Complete van Gogh. Paintings. Drawings. Sketches. New York, 1977.</literature_reference>
+        <literature_Page_Ref>kat.nr. 839</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Vanbeselaere, Walther. De Hollandsche periode (1880-1885) in het werk van Vincent van Gogh (1853-1890). Antwerpen: De Sikkel, 1937.</literature_reference>
+        <literature_Page_Ref>274, 391, 412</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Henkels, Herbert. «Cézanne en Van Gogh in het Rijksmuseum voor Moderne Kunst in Amsterdam: de collectie van Cornelis Hoogendijk (1866-1911)».  Bulletin van het Rijksmuseum 41, nr. 3/4 (1993): 155–287.</literature_reference>
+        <literature_Page_Ref>202</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Faille, Jacob-Baart de la. Vincent van Gogh. The Complete Works on Paper. San Francisco: Alan Wofsy Fine Arts, 1992.</literature_reference>
+        <literature_Page_Ref>101, 328; kat.nr. 1280; pl. CXIII</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Wolk, Johannes van der, et al. Vincent van Gogh: Drawings. Milano: Mondadori, 1990.</literature_reference>
+        <literature_Page_Ref>172; kat.nr. 117</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Faille, Jacob-Baart de la. The Works of Vincent van Gogh. His Paintings and Drawings. London: Weidenfeld and Nicolson, 1970.</literature_reference>
+        <literature_Page_Ref>kat.nr. 1280</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Carl B. Gunnarsson. «Tegninger av van Gogh i Nasjonalgalleriet». Kunst og kultur 39 (1956): 245–52.</literature_reference>
+        <literature_Page_Ref>245, 247–9</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Elgar, Frank. Van Gogh. Paris: Hazan, 1958.</literature_reference>
+        <literature_Page_Ref>35</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Schröder, Klaus Albrecht, et al., red. Van Gogh: Heartfelt Lines. Cologne: DuMont, 2008.</literature_reference>
+        <literature_Page_Ref>176–9; kat.nr. 28</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Meedendorp, Teio. Drawings and prints of Vincent van Gogh in the Collection of the Kröller-Müller Museum. Otterlo: Thieme GrafiMedia Groep, 2007.</literature_reference>
+        <literature_Page_Ref>312–5</literature_Page_Ref>
+      </Literature>
+    </LiteratureList>
+    <MultimediaList>
+      <Multimedia>
+        <image_Filename>NG.K&H.B.00165.tif</image_Filename>
+        <image_License>Free use: Creative Commons - Attribution CC-BY</image_License>
+        <image_Creditline>Nasjonalmuseet</image_Creditline>
+        <image_Photographer>Jacques Lathion</image_Photographer>
+      </Multimedia>
+    </MultimediaList>
+  </Object>
+  <Object>
+    <objectWorkType>Drawing</objectWorkType>
+    <legalBodyID>http://www.nasjonalmuseet.no/en/</legalBodyID>
+    <legalBodyName>The National Museum of Art, Architecture and Design</legalBodyName>
+	<legalBodyViaf>http://viaf.org/viaf/156373184</legalBodyViaf>
+    <legalBodyPlace>Oslo</legalBodyPlace>
+    <placeID>http://vocab.getty.edu/page/tgn/7003650</placeID>
+    <legalBodyWeblink>http://www.nasjonalmuseet.no/en/</legalBodyWeblink>
+    <Edition></Edition>
+    <Edition_number></Edition_number>
+    <Edition_notes></Edition_notes>
+    <Edition_exemplar> </Edition_exemplar>
+    <technique_AAT>black chalk;[http://vocab.getty.edu/aat/300080058]
+wash technique;[http://vocab.getty.edu/aat/300080058, http://vocab.getty.edu/aat/300182748]</technique_AAT>
+    <material_AAT>paper (fiber product);[http://vocab.getty.edu/aat/300014109]</material_AAT>
+    <objectWorkTypeAAT>http://vocab.getty.edu/aat/300033973</objectWorkTypeAAT>
+    <Technique_MaterialList>
+      <Technique_Material>
+        <Language>English</Language>
+        <Technique_and_Material>Black chalk and wash on paper</Technique_and_Material>
+      </Technique_Material>
+    </Technique_MaterialList>
+    <Obj_CopyrightsList>
+      <Obj_Copyrights>
+        <Obj_CopyrightsDateTo>01.01.1960</Obj_CopyrightsDateTo>
+        <Obj_CopyrightsStatus>inactive</Obj_CopyrightsStatus>
+        <Obj_CopyrightsTerms></Obj_CopyrightsTerms>
+        <Obj_CopyrightsHolder>Vincent van Gogh, 1853-1890</Obj_CopyrightsHolder>
+      </Obj_Copyrights>
+    </Obj_CopyrightsList>
+    <Obj_InventoryNumberList>
+      <Obj_InventoryNumber>
+        <workId>NG.K&amp;H.B.00166</workId>
+      </Obj_InventoryNumber>
+    </Obj_InventoryNumberList>
+    <Obj_ClassificationList>
+      <Obj_Classification>
+        <classification>532 - Bildende kunst</classification>
+      </Obj_Classification>
+    </Obj_ClassificationList>
+    <TitleList>
+      <Title>
+        <Title>Peasant woman carrying a sheaf of grain, seen from the front</Title>
+        <Title_language>English</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+      <Title>
+        <Title>Paysanne portant une gerbe</Title>
+        <Title_language>French</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+      <Title>
+        <Title>Contadina con un fascio di grano</Title>
+        <Title_language>Italian</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+      <Title>
+        <Title>Bondekone med nek</Title>
+        <Title_language>Norwegian</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+      <Title>
+        <Title>Peasant woman, binding a sheaf of grain</Title>
+        <Title_language>English</Title_language>
+        <Title_type>previously used</Title_type>
+      </Title>
+      <Title>
+        <Title>Kvinne med kornnek</Title>
+        <Title_language>Norwegian</Title_language>
+        <Title_type>previously used</Title_type>
+      </Title>
+    </TitleList>
+    <ObjKeywordsGrpList>
+      <ObjKeywordsGrp>
+        <keywords>Visual art</keywords>
+      </ObjKeywordsGrp>
+    </ObjKeywordsGrpList>
+    <SubjectKeywordsGrpList>
+      <SubjectKeywordsGrp>
+        <subject_Keywords>Working life</subject_Keywords>
+      </SubjectKeywordsGrp>
+    </SubjectKeywordsGrpList>
+    <DimensionsList>
+      <Dimensions>
+        <DimensionsNO>570 x 420 mm</DimensionsNO>
+        <DimensionsEN>570 x 420 mm</DimensionsEN>
+      </Dimensions>
+    </DimensionsList>
+    <ProvenanceList>
+      <Provenance>
+        <provenance_DateFrom></provenance_DateFrom>
+        <provenance_DateTo>1919</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Alphonse Kann</provenance_name>
+        <provenance_Role>[40] Previous owner</provenance_Role>
+        <provenance_eventType>Ownership</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description>jfr. Messel 2016</provenance_description>
+        <provenance_datingcomment_></provenance_datingcomment_>
+        <provenance_name_Viaf>http://viaf.org/viaf/70006976</provenance_name_Viaf>
+        <provenance_name_Ulan>http://vocab.getty.edu/ulan/500440138</provenance_name_Ulan>
+        <provenance_eventTypeAAT>http://vocab.getty.edu/aat/300055603</provenance_eventTypeAAT>
+        <provenance_RoleAAT>http://vocab.getty.edu/aat/300203630</provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom>1919</provenance_DateFrom>
+        <provenance_DateTo>1919</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Walther Halvorsen</provenance_name>
+        <provenance_Role>[50] Intermediary of gift or purchase</provenance_Role>
+        <provenance_eventType>Offer</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description></provenance_description>
+        <provenance_datingcomment_></provenance_datingcomment_>
+        <provenance_name_Viaf>http://viaf.org/viaf/594156253584908110001</provenance_name_Viaf>
+        <provenance_name_Ulan></provenance_name_Ulan>
+        <provenance_eventTypeAAT></provenance_eventTypeAAT>
+        <provenance_RoleAAT></provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom>1919</provenance_DateFrom>
+        <provenance_DateTo>1919</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Thorvald Hellesen</provenance_name>
+        <provenance_Role>[50] Intermediary of gift or purchase</provenance_Role>
+        <provenance_eventType>Offer</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description></provenance_description>
+        <provenance_datingcomment_></provenance_datingcomment_>
+        <provenance_name_Viaf>http://viaf.org/viaf/50035011</provenance_name_Viaf>
+        <provenance_name_Ulan>http://vocab.getty.edu/ulan/500144997</provenance_name_Ulan>
+        <provenance_eventTypeAAT></provenance_eventTypeAAT>
+        <provenance_RoleAAT></provenance_RoleAAT>
+      </Provenance>
+    </ProvenanceList>
+    <Related_objectsList/>
+    <ObjStylePeriodList/>
+    <ObjSubjectTypeList>
+      <ObjSubjectType>
+        <subject_Type>Figure study</subject_Type>
+        <subject_TypeAAT>http://vocab.getty.edu/aat/300189808</subject_TypeAAT>
+      </ObjSubjectType>
+    </ObjSubjectTypeList>
+    <CreditlineList>
+      <Creditline>
+        <creditline_NO>Gave fra Nasjonalgalleriets Venner 1919</creditline_NO>
+        <creditline_EN>Gift from the Friends of the National Gallery 1919</creditline_EN>
+      </Creditline>
+    </CreditlineList>
+    <ProductionList>
+      <Production>
+        <production_actor_Name>Vincent van Gogh</production_actor_Name>
+        <production_Dating>Dateres til sommeren 1885 i Wolk, Pickvance og Pey 1990; til august 1885 i Faille 1992</production_Dating>
+        <production_DateFrom>08.1885</production_DateFrom>
+        <production_DateTo>08.1885</production_DateTo>
+        <production_actor_Role>Artist</production_actor_Role>
+        <production_dating_DisplayNO>(August 1885)</production_dating_DisplayNO>
+        <production_eventType>Produced</production_eventType>
+        <production_actor_DateFrom>1853</production_actor_DateFrom>
+        <production_actor_DateTo>1890</production_actor_DateTo>
+        <production_Place>Nuenen, Noord-Brabant (Nederland)</production_Place>
+        <production_PlaceType>Place of production</production_PlaceType>
+        <production_PlaceTgn>http://vocab.getty.edu/tgn/7006835</production_PlaceTgn>
+        <production_dating_DisplayEN>(August 1885)</production_dating_DisplayEN>
+        <production_actor_Viaf>http://viaf.org/viaf/9854560</production_actor_Viaf>
+        <production_actor_Ulan>http://vocab.getty.edu/ulan/500115588</production_actor_Ulan>
+      </Production>
+    </ProductionList>
+    <ExhibitionList>
+      <Exhibition>
+        <exhibition_Title>Van Gogh's Sheaves of Wheat</exhibition_Title>
+        <exhibition_DateFrom>22.10.2006</exhibition_DateFrom>
+        <exhibition_DateTo>07.01.2007</exhibition_DateTo>
+        <exhibition_Venue_>Dallas Museum of Art</exhibition_Venue_>
+        <exhibition_Place_>Dallas (USA)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7013503</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500213367</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Blikk for tegning</exhibition_Title>
+        <exhibition_DateFrom>10.03.2001</exhibition_DateFrom>
+        <exhibition_DateTo>27.05.2001</exhibition_DateTo>
+        <exhibition_Venue_>Nasjonalgalleriet</exhibition_Venue_>
+        <exhibition_Place_>Universitetsgata 13, Nasjonalgalleriet, Oslo, Oslo (fylke) (Norge)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7009573</exhibition_PlaceTgn>
+        <exhibition_VenueUlan></exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Vincent van Gogh</exhibition_Title>
+        <exhibition_DateFrom>30.03.1990</exhibition_DateFrom>
+        <exhibition_DateTo>29.07.1990</exhibition_DateTo>
+        <exhibition_Venue_>Rijksmuseum Kröller-Müller</exhibition_Venue_>
+        <exhibition_Place_>Otterlo (Nederland)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7006900</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500235923</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>L'impressionismo e l'età di van Gogh</exhibition_Title>
+        <exhibition_DateFrom>09.11.2002</exhibition_DateFrom>
+        <exhibition_DateTo>13.04.2003</exhibition_DateTo>
+        <exhibition_Venue_>Casa dei Carraresi</exhibition_Venue_>
+        <exhibition_Place_>Treviso (Italia)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7003297</exhibition_PlaceTgn>
+        <exhibition_VenueUlan></exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Vincent van Gogh: Zeichnungen und Aquarelle</exhibition_Title>
+        <exhibition_DateFrom>30.04.1970</exhibition_DateFrom>
+        <exhibition_DateTo>21.06.1970</exhibition_DateTo>
+        <exhibition_Venue_>Frankfurter Kunstverein</exhibition_Venue_>
+        <exhibition_Place_>Frankfurt am Main (Tyskland)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7005293</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500305347</exhibition_VenueUlan>
+      </Exhibition>
+    </ExhibitionList>
+    <LiteratureList>
+      <Literature>
+        <literature_reference>Goldin, Marco, red. L’impressionismo e l’età di van Gogh. Treviso: Linea d’ombra Libri, 2002.</literature_reference>
+        <literature_Page_Ref>413, 460; kat.nr. 131</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Hulsker, Jan. The Complete van Gogh. Paintings. Drawings. Sketches. New York, 1977.</literature_reference>
+        <literature_Page_Ref>[189]; kat.nr. 870</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Vanbeselaere, Walther. De Hollandsche periode (1880-1885) in het werk van Vincent van Gogh (1853-1890). Antwerpen: De Sikkel, 1937.</literature_reference>
+        <literature_Page_Ref>273, 391, 412</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Faille, Jacob-Baart de la. Vincent van Gogh. The Complete Works on Paper. San Francisco: Alan Wofsy Fine Arts, 1992.</literature_reference>
+        <literature_Page_Ref>98–9, 325; kat.nr. 1267; pl. CXI</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Wolk, Johannes van der, et al. Vincent van Gogh: Drawings. Milano: Mondadori, 1990.</literature_reference>
+        <literature_Page_Ref>168; kat.nr. 113</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Messel, Nils. Franske forbindelser: Kunst, kapital og konjunkturer i Norge rundt 1. verdenskrig. Oslo: Messel Forlag, 2016.</literature_reference>
+        <literature_Page_Ref>168</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Faille, Jacob-Baart de la. The Works of Vincent van Gogh. His Paintings and Drawings. London: Weidenfeld and Nicolson, 1970.</literature_reference>
+        <literature_Page_Ref>kat.nr. 1267</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Carl B. Gunnarsson. «Tegninger av van Gogh i Nasjonalgalleriet». Kunst og kultur 39 (1956): 245–52.</literature_reference>
+        <literature_Page_Ref>247, 250</literature_Page_Ref>
+      </Literature>
+    </LiteratureList>
+    <MultimediaList>
+      <Multimedia>
+        <image_Filename>NG.K&H.B.00166.tif</image_Filename>
+        <image_License>Free use: Creative Commons - Attribution CC-BY</image_License>
+        <image_Creditline>Nasjonalmuseet</image_Creditline>
+        <image_Photographer>Jacques Lathion</image_Photographer>
+      </Multimedia>
+    </MultimediaList>
+  </Object>
+  <Object>
+    <objectWorkType>Painting</objectWorkType>
+    <legalBodyID>http://www.nasjonalmuseet.no/en/</legalBodyID>
+    <legalBodyName>The National Museum of Art, Architecture and Design</legalBodyName>
+	<legalBodyViaf>http://viaf.org/viaf/156373184</legalBodyViaf>
+    <legalBodyPlace>Oslo</legalBodyPlace>
+    <placeID>http://vocab.getty.edu/page/tgn/7003650</placeID>
+    <legalBodyWeblink>http://www.nasjonalmuseet.no/en/</legalBodyWeblink>
+    <Edition></Edition>
+    <Edition_number></Edition_number>
+    <Edition_notes></Edition_notes>
+    <Edition_exemplar> </Edition_exemplar>
+    <technique_AAT>oil paint (paint);[http://vocab.getty.edu/aat/300015050]</technique_AAT>
+    <material_AAT>canvas (textile material);[http://vocab.getty.edu/aat/300014078]</material_AAT>
+    <objectWorkTypeAAT>http://vocab.getty.edu/aat/300033618 </objectWorkTypeAAT>
+    <Technique_MaterialList>
+      <Technique_Material>
+        <Language>Norwegian</Language>
+        <Technique_and_Material>Olje på lerret</Technique_and_Material>
+      </Technique_Material>
+      <Technique_Material>
+        <Language>English</Language>
+        <Technique_and_Material>Oil on canvas</Technique_and_Material>
+      </Technique_Material>
+    </Technique_MaterialList>
+    <Obj_CopyrightsList>
+      <Obj_Copyrights>
+        <Obj_CopyrightsDateTo>01.01.1960</Obj_CopyrightsDateTo>
+        <Obj_CopyrightsStatus>inactive</Obj_CopyrightsStatus>
+        <Obj_CopyrightsTerms></Obj_CopyrightsTerms>
+        <Obj_CopyrightsHolder>Vincent van Gogh, 1853-1890</Obj_CopyrightsHolder>
+      </Obj_Copyrights>
+    </Obj_CopyrightsList>
+    <Obj_InventoryNumberList>
+      <Obj_InventoryNumber>
+        <workId>NG.M.00943</workId>
+      </Obj_InventoryNumber>
+    </Obj_InventoryNumberList>
+    <Obj_ClassificationList>
+      <Obj_Classification>
+        <classification>532 - Bildende kunst</classification>
+      </Obj_Classification>
+    </Obj_ClassificationList>
+    <TitleList>
+      <Title>
+        <Title>"Selvportræt"</Title>
+        <Title_language>Norwegian</Title_language>
+        <Title_type>previously used</Title_type>
+      </Title>
+      <Title>
+        <Title>Selvportrett</Title>
+        <Title_language>Norwegian</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+      <Title>
+        <Title>Self-portrait</Title>
+        <Title_language>English</Title_language>
+        <Title_type>used</Title_type>
+      </Title>
+    </TitleList>
+    <ObjKeywordsGrpList>
+      <ObjKeywordsGrp>
+        <keywords>Visual art</keywords>
+      </ObjKeywordsGrp>
+    </ObjKeywordsGrpList>
+    <SubjectKeywordsGrpList/>
+    <DimensionsList>
+      <Dimensions>
+        <DimensionsNO>51,5 x 45 cm</DimensionsNO>
+        <DimensionsEN>51,5 x 45 cm</DimensionsEN>
+      </Dimensions>
+    </DimensionsList>
+    <ProvenanceList>
+      <Provenance>
+        <provenance_DateFrom>januar 1890</provenance_DateFrom>
+        <provenance_DateTo>1895</provenance_DateTo>
+        <provenance_Place> (Frankrike)</provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Marie Julien og Joseph Michel  Ginoux</provenance_name>
+        <provenance_Role>[40] Previous owner</provenance_Role>
+        <provenance_eventType>Ownership</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description></provenance_description>
+        <provenance_datingcomment_>Note nr. 96 i Louis van Tilborgh m.fl.: Van Gogh as mentally ill: the compelling history of his contested Self-portrait in Oslo, Burlington Magazine, februar 2020:  Van Gogh visited Arles in mid-November 1889 (Letters, no.820), but it is unclear whether he visited the Ginouxs at that time. He certainly did so during his visit of 18 or 19 January 1890, when he wanted to return the boxes in which the couple had sent him olives but then forgot to do so; see ibid., nos.841, note 1, 842, 850, note 22. Another argument in favour of this later date of transfer is that two other friends from Arles also received paintings from him around this time.</provenance_datingcomment_>
+        <provenance_name_Viaf></provenance_name_Viaf>
+        <provenance_name_Ulan></provenance_name_Ulan>
+        <provenance_eventTypeAAT>http://vocab.getty.edu/aat/300055603</provenance_eventTypeAAT>
+        <provenance_RoleAAT>http://vocab.getty.edu/aat/300203630</provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom>1895</provenance_DateFrom>
+        <provenance_DateTo>1896 </provenance_DateTo>
+        <provenance_Place> (Frankrike)</provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Ambroise Vollard</provenance_name>
+        <provenance_Role>[40] Previous owner</provenance_Role>
+        <provenance_eventType>Ownership</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description></provenance_description>
+        <provenance_datingcomment_>Note nr. 55 i Louis van Tilborgh m.fl.: Van Gogh as mentally ill: the compelling history of his contested Self-portrait in Oslo, Burlington Magazine, februar 2020:  The correspondence between Ambroise Vollard and Henry Laget, the Ginouxs’ intermediary in Arles, shows that the couple sent a total of nineteen Van Gogh paintings to Paris in July 1895 (Vollard Archive, Musée d’Orsay, Paris, MS 421 (2.2)). Within two years, Vollard had sold ten of them, including a ‘portrait de Van Gogh’ on 21 March to the dealer Maurice Clouet, who probably sold it back to Vollard before 1904.
+
+Se også: Marit Lange, The provenance of Vincent van Gogh’s “Selfportrait” in Oslo’, The Burlington Magazine 148 (2006), pp.113–16
+</provenance_datingcomment_>
+        <provenance_name_Viaf>http://viaf.org/viaf/29545359</provenance_name_Viaf>
+        <provenance_name_Ulan>http://vocab.getty.edu/ulan/500327786</provenance_name_Ulan>
+        <provenance_eventTypeAAT>http://vocab.getty.edu/aat/300055603</provenance_eventTypeAAT>
+        <provenance_RoleAAT>http://vocab.getty.edu/aat/300203630</provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom>1896</provenance_DateFrom>
+        <provenance_DateTo>Før 1904</provenance_DateTo>
+        <provenance_Place> (Frankrike)</provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Maurice  Clouet</provenance_name>
+        <provenance_Role>[40] Previous owner</provenance_Role>
+        <provenance_eventType>Ownership</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description></provenance_description>
+        <provenance_datingcomment_>Marit Lange, The provenance of Vincent van Gogh’s “Selfportrait” in Oslo’, The Burlington Magazine 148 (2006), pp.113–16
+</provenance_datingcomment_>
+        <provenance_name_Viaf></provenance_name_Viaf>
+        <provenance_name_Ulan></provenance_name_Ulan>
+        <provenance_eventTypeAAT>http://vocab.getty.edu/aat/300055603</provenance_eventTypeAAT>
+        <provenance_RoleAAT>http://vocab.getty.edu/aat/300203630</provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom>ca. 1904</provenance_DateFrom>
+        <provenance_DateTo>1907</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Ambroise Vollard</provenance_name>
+        <provenance_Role>[40] Previous owner</provenance_Role>
+        <provenance_eventType>Ownership</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description></provenance_description>
+        <provenance_datingcomment_>Inv. nr. 3329 i Vollards arkiv</provenance_datingcomment_>
+        <provenance_name_Viaf>http://viaf.org/viaf/29545359</provenance_name_Viaf>
+        <provenance_name_Ulan>http://vocab.getty.edu/ulan/500327786</provenance_name_Ulan>
+        <provenance_eventTypeAAT>http://vocab.getty.edu/aat/300055603</provenance_eventTypeAAT>
+        <provenance_RoleAAT>http://vocab.getty.edu/aat/300203630</provenance_RoleAAT>
+      </Provenance>
+      <Provenance>
+        <provenance_DateFrom>Etter 1907</provenance_DateFrom>
+        <provenance_DateTo>16. juli 1910</provenance_DateTo>
+        <provenance_Place></provenance_Place>
+        <provenance_PlaceTgn></provenance_PlaceTgn>
+        <provenance_name>Galerie Eugène Blot</provenance_name>
+        <provenance_Role>[40] Previous owner</provenance_Role>
+        <provenance_eventType>Ownership</provenance_eventType>
+        <provenance_PlaceType></provenance_PlaceType>
+        <provenance_description></provenance_description>
+        <provenance_datingcomment_>Marit Lange, The provenance of Vincent van Gogh’s “Selfportrait” in Oslo’, The Burlington Magazine 148 (2006), pp.113–16</provenance_datingcomment_>
+        <provenance_name_Viaf></provenance_name_Viaf>
+        <provenance_name_Ulan>http://vocab.getty.edu/ulan/500310301</provenance_name_Ulan>
+        <provenance_eventTypeAAT>http://vocab.getty.edu/aat/300055603</provenance_eventTypeAAT>
+        <provenance_RoleAAT>http://vocab.getty.edu/aat/300203630</provenance_RoleAAT>
+      </Provenance>
+    </ProvenanceList>
+    <Related_objectsList>
+      <Related_objects>
+        <relatedObjectInvNr>NG.M.00943.R</relatedObjectInvNr>
+        <relatedObjectName>Frame</relatedObjectName>
+        <relationshipType>Has frame</relationshipType>
+      </Related_objects>
+    </Related_objectsList>
+    <ObjStylePeriodList/>
+    <ObjSubjectTypeList>
+      <ObjSubjectType>
+        <subject_Type>Self portrait</subject_Type>
+        <subject_TypeAAT>http://vocab.getty.edu/aat/300124534</subject_TypeAAT>
+      </ObjSubjectType>
+    </ObjSubjectTypeList>
+    <CreditlineList>
+      <Creditline>
+        <creditline_NO>Kjøpt 1910</creditline_NO>
+        <creditline_EN>Acquired 1910</creditline_EN>
+      </Creditline>
+    </CreditlineList>
+    <ProductionList>
+      <Production>
+        <production_actor_Name>Vincent van Gogh</production_actor_Name>
+        <production_Dating>jmfr. Louis van Tilborgh, Burlington Magazine 2020</production_Dating>
+        <production_DateFrom>1889</production_DateFrom>
+        <production_DateTo>1889</production_DateTo>
+        <production_actor_Role>Artist</production_actor_Role>
+        <production_dating_DisplayNO>(1889)</production_dating_DisplayNO>
+        <production_eventType>Produced</production_eventType>
+        <production_actor_DateFrom>1853</production_actor_DateFrom>
+        <production_actor_DateTo>1890</production_actor_DateTo>
+        <production_Place></production_Place>
+        <production_PlaceType></production_PlaceType>
+        <production_PlaceTgn></production_PlaceTgn>
+        <production_dating_DisplayEN>(1889)</production_dating_DisplayEN>
+        <production_actor_Viaf>http://viaf.org/viaf/9854560</production_actor_Viaf>
+        <production_actor_Ulan>http://vocab.getty.edu/ulan/500115588</production_actor_Ulan>
+      </Production>
+    </ProductionList>
+    <ExhibitionList>
+      <Exhibition>
+        <exhibition_Title>Livets dans. Samlingen fra antikken til 1950</exhibition_Title>
+        <exhibition_DateFrom>29.04.2011</exhibition_DateFrom>
+        <exhibition_DateTo>13.01.2019</exhibition_DateTo>
+        <exhibition_Venue_>Nasjonalgalleriet</exhibition_Venue_>
+        <exhibition_Place_>Universitetsgata 13, Nasjonalgalleriet, Oslo, Oslo (fylke) (Norge)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7009573</exhibition_PlaceTgn>
+        <exhibition_VenueUlan></exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Kunst 3. Verk fra samlingen 1814-1950</exhibition_Title>
+        <exhibition_DateFrom>17.03.2007</exhibition_DateFrom>
+        <exhibition_DateTo>28.04.2011</exhibition_DateTo>
+        <exhibition_Venue_>Nasjonalgalleriet</exhibition_Venue_>
+        <exhibition_Place_>Universitetsgata 13, Nasjonalgalleriet, Oslo, Oslo (fylke) (Norge)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7009573</exhibition_PlaceTgn>
+        <exhibition_VenueUlan></exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>L'impressionismo e l'età di van Gogh</exhibition_Title>
+        <exhibition_DateFrom>09.11.2002</exhibition_DateFrom>
+        <exhibition_DateTo>13.04.2003</exhibition_DateTo>
+        <exhibition_Venue_>Casa dei Carraresi</exhibition_Venue_>
+        <exhibition_Place_>Treviso (Italia)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7003297</exhibition_PlaceTgn>
+        <exhibition_VenueUlan></exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Falskt &amp; Ãkta</exhibition_Title>
+        <exhibition_DateFrom>26.02.2004</exhibition_DateFrom>
+        <exhibition_DateTo>23.05.2004</exhibition_DateTo>
+        <exhibition_Venue_>Nationalmuseum</exhibition_Venue_>
+        <exhibition_Place_>Stockholm (Sverige)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7009861</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500234181</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Alle snakker om museet. Kunst 1</exhibition_Title>
+        <exhibition_DateFrom>12.02.2005</exhibition_DateFrom>
+        <exhibition_DateTo>01.01.2007</exhibition_DateTo>
+        <exhibition_Venue_>Nasjonalgalleriet</exhibition_Venue_>
+        <exhibition_Place_>Universitetsgata 13, Nasjonalgalleriet, Oslo, Oslo (fylke) (Norge)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7009573</exhibition_PlaceTgn>
+        <exhibition_VenueUlan></exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>In the Picture</exhibition_Title>
+        <exhibition_DateFrom>20.02.2020</exhibition_DateFrom>
+        <exhibition_DateTo>30.08.2020</exhibition_DateTo>
+        <exhibition_Venue_>Van Gogh Museum</exhibition_Venue_>
+        <exhibition_Place_>Amsterdam (Nederland)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7006952</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500275558</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Van Gogh's Self-Portraits</exhibition_Title>
+        <exhibition_DateFrom>03.02.2022</exhibition_DateFrom>
+        <exhibition_DateTo>08.05.2022</exhibition_DateTo>
+        <exhibition_Venue_>The Courtauld Gallery</exhibition_Venue_>
+        <exhibition_Place_>London (Storbritannia)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7011781</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500302021</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Fransk kunst. Maleri, skulptur, grafik fra det XIX aarhundrede</exhibition_Title>
+        <exhibition_DateFrom>01.09.1914</exhibition_DateFrom>
+        <exhibition_DateTo>30.10.1914</exhibition_DateTo>
+        <exhibition_Venue_>Nasjonalgalleriet</exhibition_Venue_>
+        <exhibition_Place_>Universitetsgata 13, Nasjonalgalleriet, Oslo, Oslo (fylke) (Norge)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7009573</exhibition_PlaceTgn>
+        <exhibition_VenueUlan></exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Fransk konst från 1800-talet</exhibition_Title>
+        <exhibition_DateFrom>03.1917</exhibition_DateFrom>
+        <exhibition_DateTo>04.1917</exhibition_DateTo>
+        <exhibition_Venue_>Nationalmuseum</exhibition_Venue_>
+        <exhibition_Place_>Stockholm (Sverige)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7009861</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500234181</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>Vincent van Gogh</exhibition_Title>
+        <exhibition_DateFrom>1960</exhibition_DateFrom>
+        <exhibition_DateTo>1960</exhibition_DateTo>
+        <exhibition_Venue_>Musée Jacquemart-André</exhibition_Venue_>
+        <exhibition_Place_>Paris (Frankrike)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7008038</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500305308</exhibition_VenueUlan>
+      </Exhibition>
+      <Exhibition>
+        <exhibition_Title>De schilder in zijn wereld</exhibition_Title>
+        <exhibition_DateFrom>1964</exhibition_DateFrom>
+        <exhibition_DateTo>1965</exhibition_DateTo>
+        <exhibition_Venue_>Royal Museum of Fine Arts Antwerp</exhibition_Venue_>
+        <exhibition_Place_>Antwerpen (Belgia)</exhibition_Place_>
+        <exhibition_PlaceTgn>http://vocab.getty.edu/tgn/7007856</exhibition_PlaceTgn>
+        <exhibition_VenueUlan>http://vocab.getty.edu/ulan/500238802</exhibition_VenueUlan>
+      </Exhibition>
+    </ExhibitionList>
+    <LiteratureList>
+      <Literature>
+        <literature_reference>Goldin, Marco, red. L’impressionismo e l’età di van Gogh. Treviso: Linea d’ombra Libri, 2002.</literature_reference>
+        <literature_Page_Ref>kat.nr. 151, s. 32, 435 (ill.)</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Cavalli-Björkman, Görel. «The Reception of Impressionism in Scandinavia and Finland». Redigert av Dumas, Ann, et al. Impressionism. Impressionist Paintings collected by European Museums, 1999, 95.</literature_reference>
+        <literature_Page_Ref>95</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Halvorsen, Walther. «Litt om van Gogh. I anledning av Statens Kunstmuseums indkjøp av hans selvportræt». Kunst og kultur 1911 (1911): 52–59.</literature_reference>
+        <literature_Page_Ref>52-59</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Hulsker, Jan. The Complete van Gogh. Paintings. Drawings. Sketches. New York, 1977.</literature_reference>
+        <literature_Page_Ref>410, kat.nr. 1780.</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Faille, Jacob-Baart de la. The Works of Vincent van Gogh. His Paintings and Drawings. London: Weidenfeld and Nicolson, 1970.</literature_reference>
+        <literature_Page_Ref>kat. nr. F 528</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Thiis, Jens. «Betragtninger og karakteristiker av moderne fransk maleri. Nærmest i anledning av Kölnerutstillingen». Redigert av Harry Fett, et al. Kunst og kultur 3. årgang (1912): 17.</literature_reference>
+        <literature_Page_Ref>17</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Faille, Jacob-Baart de la,. L’Œuvre de Vincent van Gogh. Catalogue raisonné. Paris, 1928.</literature_reference>
+        <literature_Page_Ref>kat. nr. 528</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Jamot, Paul. «L’art français en Norvège». La Renaissance 2, nr. 2 (1929): 69–106.</literature_reference>
+        <literature_Page_Ref>92</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Lexow, Einar. Romantikken og den nyere tid. Verdens kunsthistorie V. Oslo: Aschehoug, 1935.</literature_reference>
+        <literature_Page_Ref>183</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Scherjon, W., et al. «Vincent van Gogh’s great period: Arles, St. Rémy and Auvers sur Oise (complete catalouge)». Amsterdam: De spieghel LTD, 1937.</literature_reference>
+        <literature_Page_Ref>kat. nr. 220</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Nordenfalk, Carl. Vincent van Gogh. Oslo: Gyldendal, 1948.</literature_reference>
+        <literature_Page_Ref>136</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Fett, Harry. «Vincent van Gogh». Mere kunst på arbeidsplassen, 1948, 117.</literature_reference>
+        <literature_Page_Ref>117</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Bromig-Kolleritz von Novisancz, Katharina. «Die Selbstbildnisse Vincent van Goghs. Versuch einer kunsthistorischen Erfassung der Darstellungen». München: Phil. Diss universitetet i München, 1955.</literature_reference>
+        <literature_Page_Ref>25-26, 72-74</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Cabanne, Pierre. «Van Gogh». EDITIONS SOMOGY, 1961.</literature_reference>
+        <literature_Page_Ref></literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Erpel, Fritz. Die Selbstbildnisse Vincent van Gogh. Berlin: Henschelverlag, 1963.</literature_reference>
+        <literature_Page_Ref>34-36, 67</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Hall, H. van. Portretten van Nederlandse beeldende kunstenaars. Amsterdam: Swets en Zeitlinger, 1963.</literature_reference>
+        <literature_Page_Ref>723</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Nakayama, Kimio. Gogh. Redigert av Umehara, Ryuzaburo. L’art moderne du monde. Tokyo:  Shueisha, 1970.</literature_reference>
+        <literature_Page_Ref>130</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Lecaldano, Paolo, red. «L’opera pittorica completa di Van Gogh e i suoi nessi grafici : 2». Milano, 1971.</literature_reference>
+        <literature_Page_Ref>220-221</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Lange, Marit Ingeborg. «The provenance of Vincent van Gogh’s ‘Self-portrait’ in Oslo». The Burlington Magazine, 2006, 113–16.</literature_reference>
+        <literature_Page_Ref>113-116</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Tilborgh, Louis van, et al. «Van Gogh as mentally ill: His contested Oslo self-portrait». The Burlington Magazine, 2020, 88–101.</literature_reference>
+        <literature_Page_Ref>88-101</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Lange, Marit Ingeborg. «Selvportrett av Vincent van Gogh i Nasjonalgalleriet, Oslo : ekte eller falsk?» Kunst og kultur 87 (2004): 107–16.</literature_reference>
+        <literature_Page_Ref>107-116</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Bakker, Nienke, et al., red. «In the picture. Portraying the Artist». Amsterdam, 2020.</literature_reference>
+        <literature_Page_Ref>158</literature_Page_Ref>
+      </Literature>
+      <Literature>
+        <literature_reference>Hedström, Per, et al. «Falskt och äkta i det sena 1800-talets maåleri». Falskt &amp; Äkta, 2004, 151.</literature_reference>
+        <literature_Page_Ref>151</literature_Page_Ref>
+      </Literature>
+    </LiteratureList>
+    <MultimediaList>
+      <Multimedia>
+        <image_Filename>NG.M.00943 Publisering.tif</image_Filename>
+        <image_License>Free use: Creative Commons - Attribution CC-BY</image_License>
+        <image_Creditline>Nasjonalmuseet</image_Creditline>
+        <image_Photographer>Børre Høstland</image_Photographer>
+      </Multimedia>
+    </MultimediaList>
+  </Object>
+</ObjectList>
