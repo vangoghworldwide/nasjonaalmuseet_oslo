@@ -361,9 +361,9 @@ pencils (drawing and writing equipment);[http://vocab.getty.edu/aat/300022452, h
         <Inscritiption_type_specification>signature</Inscritiption_type_specification>
         <Inscription_primary_secundary>Primary</Inscription_primary_secundary>
         <Inscription_text>Vincent</Inscription_text>
-        <Inscription_position>Nede venstre / lower left</Inscription_position>
+        <Inscription_position>Lower left</Inscription_position>
         <Inscription_method>Handwritten</Inscription_method>
-        <Inscription_medium>Penn</Inscription_medium>
+        <Inscription_medium>Pen</Inscription_medium>
         <Inscription_inscriber>Vincent van Gogh</Inscription_inscriber>
       </Inscriptions_marks>
       <Inscriptions_marks>
@@ -371,9 +371,9 @@ pencils (drawing and writing equipment);[http://vocab.getty.edu/aat/300022452, h
         <Inscritiption_type_specification>numbering</Inscritiption_type_specification>
         <Inscription_primary_secundary>Secondary</Inscription_primary_secundary>
         <Inscription_text>[Verso:] No. 6</Inscription_text>
-        <Inscription_position>Verso, øvre høyre / upper right</Inscription_position>
+        <Inscription_position>Verso, upper right</Inscription_position>
         <Inscription_method>Handwritten</Inscription_method>
-        <Inscription_medium>Penn</Inscription_medium>
+        <Inscription_medium>Pen</Inscription_medium>
         <Inscription_inscriber>Johanna van Gogh-Bonger?</Inscription_inscriber>
       </Inscriptions_marks>
     </Inscriptions_marksList>
@@ -604,7 +604,7 @@ pencils (drawing and writing equipment);[http://vocab.getty.edu/aat/300022452, h
     </LiteratureList>
     <MultimediaList>
       <Multimedia>
-        <image_Filename>NG.K&H.B.00164.tif</image_Filename>
+        <image_Filename>NG.K&amp;H.B.00164.tif</image_Filename>
         <image_License>Free use: Creative Commons - Attribution CC-BY</image_License>
         <image_Creditline>Nasjonalmuseet</image_Creditline>
         <image_Photographer>Jacques Lathion</image_Photographer>
@@ -906,7 +906,7 @@ wash technique;[http://vocab.getty.edu/aat/300080058, http://vocab.getty.edu/aat
     </LiteratureList>
     <MultimediaList>
       <Multimedia>
-        <image_Filename>NG.K&H.B.00165.tif</image_Filename>
+        <image_Filename>NG.K&amp;H.B.00165.tif</image_Filename>
         <image_License>Free use: Creative Commons - Attribution CC-BY</image_License>
         <image_Creditline>Nasjonalmuseet</image_Creditline>
         <image_Photographer>Jacques Lathion</image_Photographer>
@@ -1167,7 +1167,7 @@ wash technique;[http://vocab.getty.edu/aat/300080058, http://vocab.getty.edu/aat
     </LiteratureList>
     <MultimediaList>
       <Multimedia>
-        <image_Filename>NG.K&H.B.00166.tif</image_Filename>
+        <image_Filename>NG.K&amp;H.B.00166.tif</image_Filename>
         <image_License>Free use: Creative Commons - Attribution CC-BY</image_License>
         <image_Creditline>Nasjonalmuseet</image_Creditline>
         <image_Photographer>Jacques Lathion</image_Photographer>
