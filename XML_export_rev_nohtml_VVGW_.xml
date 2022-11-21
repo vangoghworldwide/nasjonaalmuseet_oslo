@@ -269,76 +269,256 @@ pencils (drawing and writing equipment);[http://vocab.getty.edu/aat/300022452, h
     </ExhibitionList>
     <LiteratureList>
       <Literature>
-        <literature_reference>Hulsker, Jan. The Complete van Gogh. Paintings. Drawings. Sketches. New York, 1977.</literature_reference>
-        <literature_Page_Ref>322–4; kat.nr. 1437</literature_Page_Ref>
+        <literature_Page_Ref>322–4; kat.nr. 1437.</literature_Page_Ref>
+        <literature_Year>1977</literature_Year>
+        <literature_Publisher>H.N. Abrams</literature_Publisher>
+        <literature_Title>The Complete van Gogh. Paintings. Drawings. Sketches</literature_Title>
+        <literature_Author>Hulsker, Jan</literature_Author>
+        <literature_PublishingPlace>New York</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Tellegen, Annet. «Van Gogh en Montmajour». Bulletin Museum Boymans-van Beuningen 18, nr. 1 (1967): 16–33.</literature_reference>
         <literature_Page_Ref></literature_Page_Ref>
+        <literature_Year>1967</literature_Year>
+        <literature_Publisher>Museum Boijmans Van Beuningen</literature_Publisher>
+        <literature_Title>Van Gogh en Montmajour</literature_Title>
+        <literature_Author>Tellegen, Annet</literature_Author>
+        <literature_PublishingPlace>Rotterdam</literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>Bulletin Museum Boymans-van Beuningen</literature_HostDocument>
+        <literature_Volume>18</literature_Volume>
+        <literature_Number>1</literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0027-4038</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Messel, Nils. «van Gogh og Arles». Numer, nr. 34 (2010): 24–25.</literature_reference>
         <literature_Page_Ref></literature_Page_Ref>
+        <literature_Year>2010</literature_Year>
+        <literature_Publisher></literature_Publisher>
+        <literature_Title>van Gogh og Arles</literature_Title>
+        <literature_Author>Messel, Nils</literature_Author>
+        <literature_PublishingPlace></literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>Numer</literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number>34</literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0807-1152</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Dvergsdal, Arne. «Gamle mestere fram i lyset». Dagbladet 28.1.2002, 2002.</literature_reference>
         <literature_Page_Ref></literature_Page_Ref>
+        <literature_Year>2002</literature_Year>
+        <literature_Publisher></literature_Publisher>
+        <literature_Title>Gamle mestere fram i lyset</literature_Title>
+        <literature_Author>Dvergsdal, Arne</literature_Author>
+        <literature_PublishingPlace></literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>Dagbladet 28.1.2002</literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Heugten, Sjaar van. Van Gogh draughtsman. The masterpieces. Amsterdam: Van Gogh Museum, 2005.</literature_reference>
-        <literature_Page_Ref>118, 120, 189</literature_Page_Ref>
+        <literature_Page_Ref>118, 120, 189.</literature_Page_Ref>
+        <literature_Year>2005</literature_Year>
+        <literature_Publisher>Van Gogh Museum</literature_Publisher>
+        <literature_Title>Van Gogh draughtsman. The masterpieces</literature_Title>
+        <literature_Author>Heugten, Sjaar van</literature_Author>
+        <literature_PublishingPlace>Amsterdam</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>9061535972</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Gran, Henning. «Vincent van Gogh og Danmark og Norge». Ord och Bild, nr. 9 (1953): 513–22.</literature_reference>
         <literature_Page_Ref></literature_Page_Ref>
+        <literature_Year>1953</literature_Year>
+        <literature_Publisher></literature_Publisher>
+        <literature_Title>Vincent van Gogh og Danmark og Norge</literature_Title>
+        <literature_Author>Gran, Henning</literature_Author>
+        <literature_PublishingPlace></literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>Ord och Bild</literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number>9</literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0030-4492</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Faille, Jacob-Baart de la. Vincent van Gogh. The Complete Works on Paper. San Francisco: Alan Wofsy Fine Arts, 1992.</literature_reference>
-        <literature_Page_Ref>138, 378; kat.nr. 1452; pl. CLVIII</literature_Page_Ref>
+        <literature_Page_Ref>138, 378; kat.nr. 1452; pl. CLVIII.</literature_Page_Ref>
+        <literature_Year>1992</literature_Year>
+        <literature_Publisher>Alan Wofsy Fine Arts</literature_Publisher>
+        <literature_Title>Vincent van Gogh. The Complete Works on Paper</literature_Title>
+        <literature_Author>Faille, Jacob-Baart de la</literature_Author>
+        <literature_PublishingPlace>San Francisco</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>1-55660-126-3</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Ives, Colta, et al. Vincent van Gogh: The Drawings. New York: The Metropolitan Museum of Art, 2005. https://books.google.no/books?printsec=frontcover&amp;id=rqQj_0Tm84IC&amp;redir_esc=y#v=onepage&amp;q&amp;f=false.</literature_reference>
-        <literature_Page_Ref>27, 162, 163; kat.nr. 47</literature_Page_Ref>
+        <literature_Page_Ref>27, 162, 163; kat.nr. 47.</literature_Page_Ref>
+        <literature_Year>2005</literature_Year>
+        <literature_Publisher>The Metropolitan Museum of Art</literature_Publisher>
+        <literature_Title>Vincent van Gogh: The Drawings</literature_Title>
+        <literature_Author>Ives, Colta; Stein, Susan Alyson; Heugten, Sjraar van; Vellekoop, Marije</literature_Author>
+        <literature_PublishingPlace>New York</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>1-58839-165-5</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Wolk, Johannes van der, et al. Vincent van Gogh: Drawings. Milano: Mondadori, 1990.</literature_reference>
-        <literature_Page_Ref>256; kat.nr. 183</literature_Page_Ref>
+        <literature_Page_Ref>256; kat.nr. 183.</literature_Page_Ref>
+        <literature_Year>1990</literature_Year>
+        <literature_Publisher>Mondadori</literature_Publisher>
+        <literature_Title>Vincent van Gogh: Drawings</literature_Title>
+        <literature_Author>Wolk, Johannes van der; Pickvance, Ronald; Pey, E.B.F.</literature_Author>
+        <literature_PublishingPlace>Milano</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>8824200230</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Messel, Nils. Franske forbindelser: Kunst, kapital og konjunkturer i Norge rundt 1. verdenskrig. Oslo: Messel Forlag, 2016.</literature_reference>
-        <literature_Page_Ref>50, 51</literature_Page_Ref>
+        <literature_Page_Ref>50, 51.</literature_Page_Ref>
+        <literature_Year>2016</literature_Year>
+        <literature_Publisher>Messel Forlag</literature_Publisher>
+        <literature_Title>Franske forbindelser: Kunst, kapital og konjunkturer i Norge rundt 1. verdenskrig</literature_Title>
+        <literature_Author>Messel, Nils</literature_Author>
+        <literature_PublishingPlace>Oslo</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>978-82-7631-126-6</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Faille, Jacob-Baart de la. The Works of Vincent van Gogh. His Paintings and Drawings. London: Weidenfeld and Nicolson, 1970.</literature_reference>
-        <literature_Page_Ref>kat.nr. 1452</literature_Page_Ref>
+        <literature_Page_Ref>kat.nr. 1452.</literature_Page_Ref>
+        <literature_Year>1970</literature_Year>
+        <literature_Publisher>Weidenfeld and Nicolson</literature_Publisher>
+        <literature_Title>The Works of Vincent van Gogh. His Paintings and Drawings</literature_Title>
+        <literature_Author>Faille, Jacob-Baart de la</literature_Author>
+        <literature_PublishingPlace>London</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Tilborgh, Ouis van, et al. «Sunset at Montmajour: a newly discovered painting by Vincent van Gogh». The Burlington Magazine 155, nr. 1327 (2013): 696–705.</literature_reference>
-        <literature_Page_Ref>702, 704–5; note 64</literature_Page_Ref>
+        <literature_Page_Ref>702, 704–5; note 64.</literature_Page_Ref>
+        <literature_Year>2013</literature_Year>
+        <literature_Publisher>Burlington Magazine Publications Ltd.</literature_Publisher>
+        <literature_Title>Sunset at Montmajour: a newly discovered painting by Vincent van Gogh</literature_Title>
+        <literature_Author>Tilborgh, Ouis van; Meedendorp, Teio; Maanen, Oda van</literature_Author>
+        <literature_PublishingPlace></literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>The Burlington Magazine</literature_HostDocument>
+        <literature_Volume>155</literature_Volume>
+        <literature_Number>1327</literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0007-6287</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Vellekoop, Marije, et al. Vincent van Gogh: Drawings: Vol. 4: Arles, Saint-Rémy &amp; Auvers-sur-Oise. Amsterdam: Van Gogh Museum, 2007.</literature_reference>
-        <literature_Page_Ref>135–8, 139; fig. 342d</literature_Page_Ref>
+        <literature_Page_Ref>135–8, 139; fig. 342d.</literature_Page_Ref>
+        <literature_Year>2007</literature_Year>
+        <literature_Publisher>Van Gogh Museum</literature_Publisher>
+        <literature_Title>Vincent van Gogh: Drawings: Vol. 4: Arles, Saint-Rémy &amp; Auvers-sur-Oise</literature_Title>
+        <literature_Author>Vellekoop, Marije; Zwikker, Roelie</literature_Author>
+        <literature_PublishingPlace>Amsterdam</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>9780853317418</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Pickvance, Ronald. Van Gogh in Arles. New York: The Metropolitan Museum of Art, 1984. https://books.google.no/books?id=lXBwYseY1uYC&amp;printsec=frontcover&amp;redir_esc=y#v=onepage&amp;q&amp;f=false.</literature_reference>
-        <literature_Page_Ref>81–2; kat.nr. 33</literature_Page_Ref>
+        <literature_Page_Ref>81–2; kat.nr. 33.</literature_Page_Ref>
+        <literature_Year>1984</literature_Year>
+        <literature_Publisher>The Metropolitan Museum of Art</literature_Publisher>
+        <literature_Title>Van Gogh in Arles</literature_Title>
+        <literature_Author>Pickvance, Ronald</literature_Author>
+        <literature_PublishingPlace>New York</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>0870993763</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Skedsmo, Tone. Tullinløkka - plass for museum! Oslo: Nasjonalgalleriet, 1997. https://urn.nb.no/URN:NBN:no-nb_digibok_2015070208148.</literature_reference>
-        <literature_Page_Ref>14</literature_Page_Ref>
+        <literature_Page_Ref>14.</literature_Page_Ref>
+        <literature_Year>1997</literature_Year>
+        <literature_Publisher>Nasjonalgalleriet</literature_Publisher>
+        <literature_Title>Tullinløkka - plass for museum!</literature_Title>
+        <literature_Author>Skedsmo, Tone</literature_Author>
+        <literature_PublishingPlace>Oslo</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>8290744463</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Carl B. Gunnarsson. «Tegninger av van Gogh i Nasjonalgalleriet». Kunst og kultur 39 (1956): 245–52.</literature_reference>
-        <literature_Page_Ref>251–2</literature_Page_Ref>
+        <literature_Page_Ref>251–2.</literature_Page_Ref>
+        <literature_Year>1956</literature_Year>
+        <literature_Publisher>Universitetsforlaget</literature_Publisher>
+        <literature_Title>Tegninger av van Gogh i Nasjonalgalleriet</literature_Title>
+        <literature_Author>Carl B. Gunnarsson</literature_Author>
+        <literature_PublishingPlace>Oslo</literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>Kunst og kultur</literature_HostDocument>
+        <literature_Volume>39</literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0023-5415</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Schröder, Klaus Albrecht, et al., red. Van Gogh: Heartfelt Lines. Cologne: DuMont, 2008.</literature_reference>
-        <literature_Page_Ref>261–4; kat.nr. 67</literature_Page_Ref>
+        <literature_Page_Ref>261–4; kat.nr. 67.</literature_Page_Ref>
+        <literature_Year>2008</literature_Year>
+        <literature_Publisher>DuMont</literature_Publisher>
+        <literature_Title>Van Gogh: Heartfelt Lines</literature_Title>
+        <literature_Author>Schröder, Klaus Albrecht; Widauer, Hans; Heugten, Sjraar van; Vellekoop, Marije</literature_Author>
+        <literature_PublishingPlace>Cologne</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>978-3-8321-9133-7</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Jansen, Leo, et al. The Real van Gogh: the artist and his letters. London: Royal Academy of Arts, 2010.</literature_reference>
-        <literature_Page_Ref>170; kat.nr. 93</literature_Page_Ref>
+        <literature_Page_Ref>170; kat.nr. 93.</literature_Page_Ref>
+        <literature_Year>2010</literature_Year>
+        <literature_Publisher>Royal Academy of Arts</literature_Publisher>
+        <literature_Title>The Real van Gogh: the artist and his letters</literature_Title>
+        <literature_Author>Jansen, Leo; Luijten, Hans; Dumas, Ann; Bakker, Nienke</literature_Author>
+        <literature_PublishingPlace>London</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>9781905711604</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
     </LiteratureList>
     <MultimediaList>
@@ -570,36 +750,116 @@ pencils (drawing and writing equipment);[http://vocab.getty.edu/aat/300022452, h
     </ExhibitionList>
     <LiteratureList>
       <Literature>
-        <literature_reference>Goldin, Marco, red. L’impressionismo e l’età di van Gogh. Treviso: Linea d’ombra Libri, 2002.</literature_reference>
-        <literature_Page_Ref>412, 460; kat.nr. 130</literature_Page_Ref>
+        <literature_Page_Ref>412, 460; kat.nr. 130.</literature_Page_Ref>
+        <literature_Year>2002</literature_Year>
+        <literature_Publisher>Linea d'ombra Libri</literature_Publisher>
+        <literature_Title>L'impressionismo e l'età di van Gogh</literature_Title>
+        <literature_Author>Goldin, Marco</literature_Author>
+        <literature_PublishingPlace>Treviso</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>88-87582-59-9</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Hulsker, Jan. The Complete van Gogh. Paintings. Drawings. Sketches. New York, 1977.</literature_reference>
-        <literature_Page_Ref>190; kat.nr. 851</literature_Page_Ref>
+        <literature_Page_Ref>190; kat.nr. 851.</literature_Page_Ref>
+        <literature_Year>1977</literature_Year>
+        <literature_Publisher>H.N. Abrams</literature_Publisher>
+        <literature_Title>The Complete van Gogh. Paintings. Drawings. Sketches</literature_Title>
+        <literature_Author>Hulsker, Jan</literature_Author>
+        <literature_PublishingPlace>New York</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Vanbeselaere, Walther. De Hollandsche periode (1880-1885) in het werk van Vincent van Gogh (1853-1890). Antwerpen: De Sikkel, 1937.</literature_reference>
-        <literature_Page_Ref>275, 413</literature_Page_Ref>
+        <literature_Page_Ref>275, 413.</literature_Page_Ref>
+        <literature_Year>1937</literature_Year>
+        <literature_Publisher>De Sikkel</literature_Publisher>
+        <literature_Title>De Hollandsche periode (1880-1885) in het werk van Vincent van Gogh (1853-1890)</literature_Title>
+        <literature_Author>Vanbeselaere, Walther</literature_Author>
+        <literature_PublishingPlace>Antwerpen</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Faille, Jacob-Baart de la. Vincent van Gogh. The Complete Works on Paper. San Francisco: Alan Wofsy Fine Arts, 1992.</literature_reference>
-        <literature_Page_Ref>106, 335; kat.nr. 1306; pl. CXX</literature_Page_Ref>
+        <literature_Page_Ref>106, 335; kat.nr. 1306; pl. CXX.</literature_Page_Ref>
+        <literature_Year>1992</literature_Year>
+        <literature_Publisher>Alan Wofsy Fine Arts</literature_Publisher>
+        <literature_Title>Vincent van Gogh. The Complete Works on Paper</literature_Title>
+        <literature_Author>Faille, Jacob-Baart de la</literature_Author>
+        <literature_PublishingPlace>San Francisco</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>1-55660-126-3</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Messel, Nils. Franske forbindelser: Kunst, kapital og konjunkturer i Norge rundt 1. verdenskrig. Oslo: Messel Forlag, 2016.</literature_reference>
-        <literature_Page_Ref>168</literature_Page_Ref>
+        <literature_Page_Ref>168.</literature_Page_Ref>
+        <literature_Year>2016</literature_Year>
+        <literature_Publisher>Messel Forlag</literature_Publisher>
+        <literature_Title>Franske forbindelser: Kunst, kapital og konjunkturer i Norge rundt 1. verdenskrig</literature_Title>
+        <literature_Author>Messel, Nils</literature_Author>
+        <literature_PublishingPlace>Oslo</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>978-82-7631-126-6</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Carl B. Gunnarsson. «Tegninger av van Gogh i Nasjonalgalleriet». Kunst og kultur 39 (1956): 245–52.</literature_reference>
-        <literature_Page_Ref>247–8</literature_Page_Ref>
+        <literature_Page_Ref>247–8.</literature_Page_Ref>
+        <literature_Year>1956</literature_Year>
+        <literature_Publisher>Universitetsforlaget</literature_Publisher>
+        <literature_Title>Tegninger av van Gogh i Nasjonalgalleriet</literature_Title>
+        <literature_Author>Carl B. Gunnarsson</literature_Author>
+        <literature_PublishingPlace>Oslo</literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>Kunst og kultur</literature_HostDocument>
+        <literature_Volume>39</literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0023-5415</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Stolwijk, Chris. The account book of Theo van Gogh and Jo van Gogh-Bonger. Amsterdam ; Leiden: Van Gogh Museum, Primavera, 2002.</literature_reference>
-        <literature_Page_Ref>20, note 33</literature_Page_Ref>
+        <literature_Page_Ref>20, note 33.</literature_Page_Ref>
+        <literature_Year>2002</literature_Year>
+        <literature_Publisher>Van Gogh Museum, Primavera</literature_Publisher>
+        <literature_Title>The account book of Theo van Gogh and Jo van Gogh-Bonger</literature_Title>
+        <literature_Author>Stolwijk, Chris</literature_Author>
+        <literature_PublishingPlace>Amsterdam ; Leiden</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>90-74310-82-6</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Meedendorp, Teio. Drawings and prints of Vincent van Gogh in the Collection of the Kröller-Müller Museum. Otterlo: Thieme GrafiMedia Groep, 2007.</literature_reference>
-        <literature_Page_Ref>312–5</literature_Page_Ref>
+        <literature_Page_Ref>312–5.</literature_Page_Ref>
+        <literature_Year>2007</literature_Year>
+        <literature_Publisher>Thieme GrafiMedia Groep</literature_Publisher>
+        <literature_Title>Drawings and prints of Vincent van Gogh in the Collection of the Kröller-Müller Museum</literature_Title>
+        <literature_Author>Meedendorp, Teio</literature_Author>
+        <literature_PublishingPlace>Otterlo</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>9789078964056</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
     </LiteratureList>
     <MultimediaList>
@@ -864,44 +1124,144 @@ wash technique;[http://vocab.getty.edu/aat/300080058, http://vocab.getty.edu/aat
     </ExhibitionList>
     <LiteratureList>
       <Literature>
-        <literature_reference>Hulsker, Jan. The Complete van Gogh. Paintings. Drawings. Sketches. New York, 1977.</literature_reference>
-        <literature_Page_Ref>kat.nr. 839</literature_Page_Ref>
+        <literature_Page_Ref>kat.nr. 839.</literature_Page_Ref>
+        <literature_Year>1977</literature_Year>
+        <literature_Publisher>H.N. Abrams</literature_Publisher>
+        <literature_Title>The Complete van Gogh. Paintings. Drawings. Sketches</literature_Title>
+        <literature_Author>Hulsker, Jan</literature_Author>
+        <literature_PublishingPlace>New York</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Vanbeselaere, Walther. De Hollandsche periode (1880-1885) in het werk van Vincent van Gogh (1853-1890). Antwerpen: De Sikkel, 1937.</literature_reference>
-        <literature_Page_Ref>274, 391, 412</literature_Page_Ref>
+        <literature_Page_Ref>274, 391, 412.</literature_Page_Ref>
+        <literature_Year>1937</literature_Year>
+        <literature_Publisher>De Sikkel</literature_Publisher>
+        <literature_Title>De Hollandsche periode (1880-1885) in het werk van Vincent van Gogh (1853-1890)</literature_Title>
+        <literature_Author>Vanbeselaere, Walther</literature_Author>
+        <literature_PublishingPlace>Antwerpen</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Henkels, Herbert. «Cézanne en Van Gogh in het Rijksmuseum voor Moderne Kunst in Amsterdam: de collectie van Cornelis Hoogendijk (1866-1911)».  Bulletin van het Rijksmuseum 41, nr. 3/4 (1993): 155–287.</literature_reference>
-        <literature_Page_Ref>202</literature_Page_Ref>
+        <literature_Page_Ref>202.</literature_Page_Ref>
+        <literature_Year>1993</literature_Year>
+        <literature_Publisher>Stichting het Rijksmuseum</literature_Publisher>
+        <literature_Title>Cézanne en Van Gogh in het Rijksmuseum voor Moderne Kunst in Amsterdam: de collectie van Cornelis Hoogendijk (1866-1911)</literature_Title>
+        <literature_Author>Henkels, Herbert</literature_Author>
+        <literature_PublishingPlace>Amsterdam</literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>Bulletin van het Rijksmuseum</literature_HostDocument>
+        <literature_Volume>41</literature_Volume>
+        <literature_Number>3/4</literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0165-9510</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Faille, Jacob-Baart de la. Vincent van Gogh. The Complete Works on Paper. San Francisco: Alan Wofsy Fine Arts, 1992.</literature_reference>
-        <literature_Page_Ref>101, 328; kat.nr. 1280; pl. CXIII</literature_Page_Ref>
+        <literature_Page_Ref>101, 328; kat.nr. 1280; pl. CXIII.</literature_Page_Ref>
+        <literature_Year>1992</literature_Year>
+        <literature_Publisher>Alan Wofsy Fine Arts</literature_Publisher>
+        <literature_Title>Vincent van Gogh. The Complete Works on Paper</literature_Title>
+        <literature_Author>Faille, Jacob-Baart de la</literature_Author>
+        <literature_PublishingPlace>San Francisco</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>1-55660-126-3</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Wolk, Johannes van der, et al. Vincent van Gogh: Drawings. Milano: Mondadori, 1990.</literature_reference>
-        <literature_Page_Ref>172; kat.nr. 117</literature_Page_Ref>
+        <literature_Page_Ref>172; kat.nr. 117.</literature_Page_Ref>
+        <literature_Year>1990</literature_Year>
+        <literature_Publisher>Mondadori</literature_Publisher>
+        <literature_Title>Vincent van Gogh: Drawings</literature_Title>
+        <literature_Author>Wolk, Johannes van der; Pickvance, Ronald; Pey, E.B.F.</literature_Author>
+        <literature_PublishingPlace>Milano</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>8824200230</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Faille, Jacob-Baart de la. The Works of Vincent van Gogh. His Paintings and Drawings. London: Weidenfeld and Nicolson, 1970.</literature_reference>
-        <literature_Page_Ref>kat.nr. 1280</literature_Page_Ref>
+        <literature_Page_Ref>kat.nr. 1280.</literature_Page_Ref>
+        <literature_Year>1970</literature_Year>
+        <literature_Publisher>Weidenfeld and Nicolson</literature_Publisher>
+        <literature_Title>The Works of Vincent van Gogh. His Paintings and Drawings</literature_Title>
+        <literature_Author>Faille, Jacob-Baart de la</literature_Author>
+        <literature_PublishingPlace>London</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Carl B. Gunnarsson. «Tegninger av van Gogh i Nasjonalgalleriet». Kunst og kultur 39 (1956): 245–52.</literature_reference>
-        <literature_Page_Ref>245, 247–9</literature_Page_Ref>
+        <literature_Page_Ref>245, 247–9.</literature_Page_Ref>
+        <literature_Year>1956</literature_Year>
+        <literature_Publisher>Universitetsforlaget</literature_Publisher>
+        <literature_Title>Tegninger av van Gogh i Nasjonalgalleriet</literature_Title>
+        <literature_Author>Carl B. Gunnarsson</literature_Author>
+        <literature_PublishingPlace>Oslo</literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>Kunst og kultur</literature_HostDocument>
+        <literature_Volume>39</literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0023-5415</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Elgar, Frank. Van Gogh. Paris: Hazan, 1958.</literature_reference>
-        <literature_Page_Ref>35</literature_Page_Ref>
+        <literature_Page_Ref>35.</literature_Page_Ref>
+        <literature_Year>1958</literature_Year>
+        <literature_Publisher>Hazan</literature_Publisher>
+        <literature_Title>Van Gogh</literature_Title>
+        <literature_Author>Elgar, Frank</literature_Author>
+        <literature_PublishingPlace>Paris</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Schröder, Klaus Albrecht, et al., red. Van Gogh: Heartfelt Lines. Cologne: DuMont, 2008.</literature_reference>
-        <literature_Page_Ref>176–9; kat.nr. 28</literature_Page_Ref>
+        <literature_Page_Ref>176–9; kat.nr. 28.</literature_Page_Ref>
+        <literature_Year>2008</literature_Year>
+        <literature_Publisher>DuMont</literature_Publisher>
+        <literature_Title>Van Gogh: Heartfelt Lines</literature_Title>
+        <literature_Author>Schröder, Klaus Albrecht; Widauer, Hans; Heugten, Sjraar van; Vellekoop, Marije</literature_Author>
+        <literature_PublishingPlace>Cologne</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>978-3-8321-9133-7</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Meedendorp, Teio. Drawings and prints of Vincent van Gogh in the Collection of the Kröller-Müller Museum. Otterlo: Thieme GrafiMedia Groep, 2007.</literature_reference>
-        <literature_Page_Ref>312–5</literature_Page_Ref>
+        <literature_Page_Ref>312–5.</literature_Page_Ref>
+        <literature_Year>2007</literature_Year>
+        <literature_Publisher>Thieme GrafiMedia Groep</literature_Publisher>
+        <literature_Title>Drawings and prints of Vincent van Gogh in the Collection of the Kröller-Müller Museum</literature_Title>
+        <literature_Author>Meedendorp, Teio</literature_Author>
+        <literature_PublishingPlace>Otterlo</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>9789078964056</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
     </LiteratureList>
     <MultimediaList>
@@ -1133,36 +1493,116 @@ wash technique;[http://vocab.getty.edu/aat/300080058, http://vocab.getty.edu/aat
     </ExhibitionList>
     <LiteratureList>
       <Literature>
-        <literature_reference>Goldin, Marco, red. L’impressionismo e l’età di van Gogh. Treviso: Linea d’ombra Libri, 2002.</literature_reference>
-        <literature_Page_Ref>413, 460; kat.nr. 131</literature_Page_Ref>
+        <literature_Page_Ref>413, 460; kat.nr. 131.</literature_Page_Ref>
+        <literature_Year>2002</literature_Year>
+        <literature_Publisher>Linea d'ombra Libri</literature_Publisher>
+        <literature_Title>L'impressionismo e l'età di van Gogh</literature_Title>
+        <literature_Author>Goldin, Marco</literature_Author>
+        <literature_PublishingPlace>Treviso</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>88-87582-59-9</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Hulsker, Jan. The Complete van Gogh. Paintings. Drawings. Sketches. New York, 1977.</literature_reference>
-        <literature_Page_Ref>[189]; kat.nr. 870</literature_Page_Ref>
+        <literature_Page_Ref>[189]; kat.nr. 870.</literature_Page_Ref>
+        <literature_Year>1977</literature_Year>
+        <literature_Publisher>H.N. Abrams</literature_Publisher>
+        <literature_Title>The Complete van Gogh. Paintings. Drawings. Sketches</literature_Title>
+        <literature_Author>Hulsker, Jan</literature_Author>
+        <literature_PublishingPlace>New York</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Vanbeselaere, Walther. De Hollandsche periode (1880-1885) in het werk van Vincent van Gogh (1853-1890). Antwerpen: De Sikkel, 1937.</literature_reference>
-        <literature_Page_Ref>273, 391, 412</literature_Page_Ref>
+        <literature_Page_Ref>273, 391, 412.</literature_Page_Ref>
+        <literature_Year>1937</literature_Year>
+        <literature_Publisher>De Sikkel</literature_Publisher>
+        <literature_Title>De Hollandsche periode (1880-1885) in het werk van Vincent van Gogh (1853-1890)</literature_Title>
+        <literature_Author>Vanbeselaere, Walther</literature_Author>
+        <literature_PublishingPlace>Antwerpen</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Faille, Jacob-Baart de la. Vincent van Gogh. The Complete Works on Paper. San Francisco: Alan Wofsy Fine Arts, 1992.</literature_reference>
-        <literature_Page_Ref>98–9, 325; kat.nr. 1267; pl. CXI</literature_Page_Ref>
+        <literature_Page_Ref>98–9, 325; kat.nr. 1267; pl. CXI.</literature_Page_Ref>
+        <literature_Year>1992</literature_Year>
+        <literature_Publisher>Alan Wofsy Fine Arts</literature_Publisher>
+        <literature_Title>Vincent van Gogh. The Complete Works on Paper</literature_Title>
+        <literature_Author>Faille, Jacob-Baart de la</literature_Author>
+        <literature_PublishingPlace>San Francisco</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>1-55660-126-3</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Wolk, Johannes van der, et al. Vincent van Gogh: Drawings. Milano: Mondadori, 1990.</literature_reference>
-        <literature_Page_Ref>168; kat.nr. 113</literature_Page_Ref>
+        <literature_Page_Ref>168; kat.nr. 113.</literature_Page_Ref>
+        <literature_Year>1990</literature_Year>
+        <literature_Publisher>Mondadori</literature_Publisher>
+        <literature_Title>Vincent van Gogh: Drawings</literature_Title>
+        <literature_Author>Wolk, Johannes van der; Pickvance, Ronald; Pey, E.B.F.</literature_Author>
+        <literature_PublishingPlace>Milano</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>8824200230</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Messel, Nils. Franske forbindelser: Kunst, kapital og konjunkturer i Norge rundt 1. verdenskrig. Oslo: Messel Forlag, 2016.</literature_reference>
-        <literature_Page_Ref>168</literature_Page_Ref>
+        <literature_Page_Ref>168.</literature_Page_Ref>
+        <literature_Year>2016</literature_Year>
+        <literature_Publisher>Messel Forlag</literature_Publisher>
+        <literature_Title>Franske forbindelser: Kunst, kapital og konjunkturer i Norge rundt 1. verdenskrig</literature_Title>
+        <literature_Author>Messel, Nils</literature_Author>
+        <literature_PublishingPlace>Oslo</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>978-82-7631-126-6</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Faille, Jacob-Baart de la. The Works of Vincent van Gogh. His Paintings and Drawings. London: Weidenfeld and Nicolson, 1970.</literature_reference>
-        <literature_Page_Ref>kat.nr. 1267</literature_Page_Ref>
+        <literature_Page_Ref>kat.nr. 1267.</literature_Page_Ref>
+        <literature_Year>1970</literature_Year>
+        <literature_Publisher>Weidenfeld and Nicolson</literature_Publisher>
+        <literature_Title>The Works of Vincent van Gogh. His Paintings and Drawings</literature_Title>
+        <literature_Author>Faille, Jacob-Baart de la</literature_Author>
+        <literature_PublishingPlace>London</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Carl B. Gunnarsson. «Tegninger av van Gogh i Nasjonalgalleriet». Kunst og kultur 39 (1956): 245–52.</literature_reference>
-        <literature_Page_Ref>247, 250</literature_Page_Ref>
+        <literature_Page_Ref>247, 250.</literature_Page_Ref>
+        <literature_Year>1956</literature_Year>
+        <literature_Publisher>Universitetsforlaget</literature_Publisher>
+        <literature_Title>Tegninger av van Gogh i Nasjonalgalleriet</literature_Title>
+        <literature_Author>Carl B. Gunnarsson</literature_Author>
+        <literature_PublishingPlace>Oslo</literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>Kunst og kultur</literature_HostDocument>
+        <literature_Volume>39</literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0023-5415</literature_ISSN>
       </Literature>
     </LiteratureList>
     <MultimediaList>
@@ -1248,7 +1688,7 @@ wash technique;[http://vocab.getty.edu/aat/300080058, http://vocab.getty.edu/aat
     </DimensionsList>
     <ProvenanceList>
       <Provenance>
-        <provenance_DateFrom>januar 1890</provenance_DateFrom>
+        <provenance_DateFrom>01.1890</provenance_DateFrom>
         <provenance_DateTo>1895</provenance_DateTo>
         <provenance_Place> (Frankrike)</provenance_Place>
         <provenance_PlaceTgn></provenance_PlaceTgn>
@@ -1284,7 +1724,7 @@ Se også: Marit Lange, The provenance of Vincent van Gogh’s “Selfportrait”
       </Provenance>
       <Provenance>
         <provenance_DateFrom>1896</provenance_DateFrom>
-        <provenance_DateTo>Før 1904</provenance_DateTo>
+        <provenance_DateTo>1904</provenance_DateTo>
         <provenance_Place> (Frankrike)</provenance_Place>
         <provenance_PlaceTgn></provenance_PlaceTgn>
         <provenance_name>Maurice  Clouet</provenance_name>
@@ -1300,7 +1740,7 @@ Se også: Marit Lange, The provenance of Vincent van Gogh’s “Selfportrait”
         <provenance_RoleAAT>http://vocab.getty.edu/aat/300203630</provenance_RoleAAT>
       </Provenance>
       <Provenance>
-        <provenance_DateFrom>ca. 1904</provenance_DateFrom>
+        <provenance_DateFrom>1904</provenance_DateFrom>
         <provenance_DateTo>1907</provenance_DateTo>
         <provenance_Place></provenance_Place>
         <provenance_PlaceTgn></provenance_PlaceTgn>
@@ -1316,8 +1756,8 @@ Se også: Marit Lange, The provenance of Vincent van Gogh’s “Selfportrait”
         <provenance_RoleAAT>http://vocab.getty.edu/aat/300203630</provenance_RoleAAT>
       </Provenance>
       <Provenance>
-        <provenance_DateFrom>Etter 1907</provenance_DateFrom>
-        <provenance_DateTo>16. juli 1910</provenance_DateTo>
+        <provenance_DateFrom>1907</provenance_DateFrom>
+        <provenance_DateTo>16.07.1910</provenance_DateTo>
         <provenance_Place></provenance_Place>
         <provenance_PlaceTgn></provenance_PlaceTgn>
         <provenance_name>Galerie Eugène Blot</provenance_name>
@@ -1474,96 +1914,326 @@ Se også: Marit Lange, The provenance of Vincent van Gogh’s “Selfportrait”
     </ExhibitionList>
     <LiteratureList>
       <Literature>
-        <literature_reference>Goldin, Marco, red. L’impressionismo e l’età di van Gogh. Treviso: Linea d’ombra Libri, 2002.</literature_reference>
         <literature_Page_Ref>kat.nr. 151, s. 32, 435 (ill.)</literature_Page_Ref>
+        <literature_Year>2002</literature_Year>
+        <literature_Publisher>Linea d'ombra Libri</literature_Publisher>
+        <literature_Title>L'impressionismo e l'età di van Gogh</literature_Title>
+        <literature_Author>Goldin, Marco</literature_Author>
+        <literature_PublishingPlace>Treviso</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>88-87582-59-9</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Cavalli-Björkman, Görel. «The Reception of Impressionism in Scandinavia and Finland». Redigert av Dumas, Ann, et al. Impressionism. Impressionist Paintings collected by European Museums, 1999, 95.</literature_reference>
         <literature_Page_Ref>95</literature_Page_Ref>
+        <literature_Year>1999</literature_Year>
+        <literature_Publisher></literature_Publisher>
+        <literature_Title>The Reception of Impressionism in Scandinavia and Finland</literature_Title>
+        <literature_Author>Cavalli-Björkman, Görel; Dumas, Ann; Shapiro, Michael F. </literature_Author>
+        <literature_PublishingPlace>New York</literature_PublishingPlace>
+        <literature_Type>Article in Book</literature_Type>
+        <literature_HostDocument>Impressionism. Impressionist Paintings collected by European Museums</literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>0-8109-6383-3</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Halvorsen, Walther. «Litt om van Gogh. I anledning av Statens Kunstmuseums indkjøp av hans selvportræt». Kunst og kultur 1911 (1911): 52–59.</literature_reference>
         <literature_Page_Ref>52-59</literature_Page_Ref>
+        <literature_Year>1911</literature_Year>
+        <literature_Publisher></literature_Publisher>
+        <literature_Title>Litt om van Gogh. I anledning av Statens Kunstmuseums indkjøp av hans selvportræt</literature_Title>
+        <literature_Author>Halvorsen, Walther</literature_Author>
+        <literature_PublishingPlace>Oslo</literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>Kunst og kultur</literature_HostDocument>
+        <literature_Volume>1911</literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0023-5415</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Hulsker, Jan. The Complete van Gogh. Paintings. Drawings. Sketches. New York, 1977.</literature_reference>
         <literature_Page_Ref>410, kat.nr. 1780.</literature_Page_Ref>
+        <literature_Year>1977</literature_Year>
+        <literature_Publisher>H.N. Abrams</literature_Publisher>
+        <literature_Title>The Complete van Gogh. Paintings. Drawings. Sketches</literature_Title>
+        <literature_Author>Hulsker, Jan</literature_Author>
+        <literature_PublishingPlace>New York</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Faille, Jacob-Baart de la. The Works of Vincent van Gogh. His Paintings and Drawings. London: Weidenfeld and Nicolson, 1970.</literature_reference>
         <literature_Page_Ref>kat. nr. F 528</literature_Page_Ref>
+        <literature_Year>1970</literature_Year>
+        <literature_Publisher>Weidenfeld and Nicolson</literature_Publisher>
+        <literature_Title>The Works of Vincent van Gogh. His Paintings and Drawings</literature_Title>
+        <literature_Author>Faille, Jacob-Baart de la</literature_Author>
+        <literature_PublishingPlace>London</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Thiis, Jens. «Betragtninger og karakteristiker av moderne fransk maleri. Nærmest i anledning av Kölnerutstillingen». Redigert av Harry Fett, et al. Kunst og kultur 3. årgang (1912): 17.</literature_reference>
         <literature_Page_Ref>17</literature_Page_Ref>
+        <literature_Year>1912</literature_Year>
+        <literature_Publisher>John Griegs forlag</literature_Publisher>
+        <literature_Title>Betragtninger og karakteristiker av moderne fransk maleri. Nærmest i anledning av Kölnerutstillingen</literature_Title>
+        <literature_Author>Thiis, Jens; Harry Fett; Haakon Shetelig</literature_Author>
+        <literature_PublishingPlace>Bergen</literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>Kunst og kultur</literature_HostDocument>
+        <literature_Volume>3. årgang</literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0023-5415</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Faille, Jacob-Baart de la,. L’Œuvre de Vincent van Gogh. Catalogue raisonné. Paris, 1928.</literature_reference>
         <literature_Page_Ref>kat. nr. 528</literature_Page_Ref>
+        <literature_Year>1928</literature_Year>
+        <literature_Publisher></literature_Publisher>
+        <literature_Title>L’œuvre de Vincent van Gogh. Catalogue raisonné</literature_Title>
+        <literature_Author>Faille, Jacob-Baart de la, </literature_Author>
+        <literature_PublishingPlace>Paris</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Jamot, Paul. «L’art français en Norvège». La Renaissance 2, nr. 2 (1929): 69–106.</literature_reference>
         <literature_Page_Ref>92</literature_Page_Ref>
+        <literature_Year>1929</literature_Year>
+        <literature_Publisher>les Éditions nationales</literature_Publisher>
+        <literature_Title>L'art français en Norvège</literature_Title>
+        <literature_Author>Jamot, Paul</literature_Author>
+        <literature_PublishingPlace>Paris</literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>La Renaissance</literature_HostDocument>
+        <literature_Volume>2</literature_Volume>
+        <literature_Number>2</literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0184-7996</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Lexow, Einar. Romantikken og den nyere tid. Verdens kunsthistorie V. Oslo: Aschehoug, 1935.</literature_reference>
         <literature_Page_Ref>183</literature_Page_Ref>
+        <literature_Year>1935</literature_Year>
+        <literature_Publisher>Aschehoug</literature_Publisher>
+        <literature_Title>Romantikken og den nyere tid: Verdens kunsthistorie V</literature_Title>
+        <literature_Author>Lexow, Einar</literature_Author>
+        <literature_PublishingPlace>Oslo</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Scherjon, W., et al. «Vincent van Gogh’s great period: Arles, St. Rémy and Auvers sur Oise (complete catalouge)». Amsterdam: De spieghel LTD, 1937.</literature_reference>
         <literature_Page_Ref>kat. nr. 220</literature_Page_Ref>
+        <literature_Year>1937</literature_Year>
+        <literature_Publisher>De spieghel LTD</literature_Publisher>
+        <literature_Title>Vincent van Gogh's great period: Arles, St. Rémy and Auvers sur Oise (complete catalouge)</literature_Title>
+        <literature_Author>Scherjon, W.; Gruyter, J. de</literature_Author>
+        <literature_PublishingPlace>Amsterdam</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Nordenfalk, Carl. Vincent van Gogh. Oslo: Gyldendal, 1948.</literature_reference>
         <literature_Page_Ref>136</literature_Page_Ref>
+        <literature_Year>1948</literature_Year>
+        <literature_Publisher>Gyldendal</literature_Publisher>
+        <literature_Title>Vincent van Gogh</literature_Title>
+        <literature_Author>Nordenfalk, Carl</literature_Author>
+        <literature_PublishingPlace>Oslo</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Fett, Harry. «Vincent van Gogh». Mere kunst på arbeidsplassen, 1948, 117.</literature_reference>
         <literature_Page_Ref>117</literature_Page_Ref>
+        <literature_Year>1948</literature_Year>
+        <literature_Publisher></literature_Publisher>
+        <literature_Title>Vincent van Gogh</literature_Title>
+        <literature_Author>Fett, Harry</literature_Author>
+        <literature_PublishingPlace>Oslo</literature_PublishingPlace>
+        <literature_Type>Article in Book</literature_Type>
+        <literature_HostDocument>Mere kunst på arbeidsplassen</literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Bromig-Kolleritz von Novisancz, Katharina. «Die Selbstbildnisse Vincent van Goghs. Versuch einer kunsthistorischen Erfassung der Darstellungen». München: Phil. Diss universitetet i München, 1955.</literature_reference>
         <literature_Page_Ref>25-26, 72-74</literature_Page_Ref>
+        <literature_Year>1955</literature_Year>
+        <literature_Publisher>Phil. Diss universitetet i München</literature_Publisher>
+        <literature_Title>Die Selbstbildnisse Vincent van Goghs. Versuch einer kunsthistorischen Erfassung der Darstellungen</literature_Title>
+        <literature_Author>Bromig-Kolleritz von Novisancz, Katharina</literature_Author>
+        <literature_PublishingPlace>München</literature_PublishingPlace>
+        <literature_Type>Dissertation</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Cabanne, Pierre. «Van Gogh». EDITIONS SOMOGY, 1961.</literature_reference>
         <literature_Page_Ref></literature_Page_Ref>
+        <literature_Year>1961</literature_Year>
+        <literature_Publisher>EDITIONS SOMOGY</literature_Publisher>
+        <literature_Title>Van Gogh</literature_Title>
+        <literature_Author>Cabanne, Pierre</literature_Author>
+        <literature_PublishingPlace></literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Erpel, Fritz. Die Selbstbildnisse Vincent van Gogh. Berlin: Henschelverlag, 1963.</literature_reference>
         <literature_Page_Ref>34-36, 67</literature_Page_Ref>
+        <literature_Year>1963</literature_Year>
+        <literature_Publisher>Henschelverlag</literature_Publisher>
+        <literature_Title>Die Selbstbildnisse Vincent van Gogh</literature_Title>
+        <literature_Author>Erpel, Fritz</literature_Author>
+        <literature_PublishingPlace>Berlin</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Hall, H. van. Portretten van Nederlandse beeldende kunstenaars. Amsterdam: Swets en Zeitlinger, 1963.</literature_reference>
         <literature_Page_Ref>723</literature_Page_Ref>
+        <literature_Year>1963</literature_Year>
+        <literature_Publisher>Swets en Zeitlinger</literature_Publisher>
+        <literature_Title>Portretten van Nederlandse beeldende kunstenaars </literature_Title>
+        <literature_Author>Hall, H. van</literature_Author>
+        <literature_PublishingPlace>Amsterdam</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Nakayama, Kimio. Gogh. Redigert av Umehara, Ryuzaburo. L’art moderne du monde. Tokyo:  Shueisha, 1970.</literature_reference>
         <literature_Page_Ref>130</literature_Page_Ref>
+        <literature_Year>1970</literature_Year>
+        <literature_Publisher>Shueisha</literature_Publisher>
+        <literature_Title>Gogh</literature_Title>
+        <literature_Author>Nakayama, Kimio; Umehara, Ryuzaburo</literature_Author>
+        <literature_PublishingPlace>Tokyo</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument>L'art moderne du monde</literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Lecaldano, Paolo, red. «L’opera pittorica completa di Van Gogh e i suoi nessi grafici : 2». Milano, 1971.</literature_reference>
         <literature_Page_Ref>220-221</literature_Page_Ref>
+        <literature_Year>1971</literature_Year>
+        <literature_Publisher></literature_Publisher>
+        <literature_Title>L'opera pittorica completa di Van Gogh e i suoi nessi grafici : 2</literature_Title>
+        <literature_Author>Lecaldano, Paolo</literature_Author>
+        <literature_PublishingPlace>Milano</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Lange, Marit Ingeborg. «The provenance of Vincent van Gogh’s ‘Self-portrait’ in Oslo». The Burlington Magazine, 2006, 113–16.</literature_reference>
         <literature_Page_Ref>113-116</literature_Page_Ref>
+        <literature_Year>2006</literature_Year>
+        <literature_Publisher></literature_Publisher>
+        <literature_Title>The provenance of Vincent van Gogh's "Self-portrait" in Oslo</literature_Title>
+        <literature_Author>Lange, Marit Ingeborg</literature_Author>
+        <literature_PublishingPlace></literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>The Burlington Magazine</literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number>1235</literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0007-6287</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Tilborgh, Louis van, et al. «Van Gogh as mentally ill: His contested Oslo self-portrait». The Burlington Magazine, 2020, 88–101.</literature_reference>
         <literature_Page_Ref>88-101</literature_Page_Ref>
+        <literature_Year>2020</literature_Year>
+        <literature_Publisher></literature_Publisher>
+        <literature_Title>Van Gogh as mentally ill: His contested Oslo self-portrait</literature_Title>
+        <literature_Author>Tilborgh, Louis van; Meedendorp, Teio; Pilz, Kathrin</literature_Author>
+        <literature_PublishingPlace></literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>The Burlington Magazine</literature_HostDocument>
+        <literature_Volume>162</literature_Volume>
+        <literature_Number>1403</literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0007-6287</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Lange, Marit Ingeborg. «Selvportrett av Vincent van Gogh i Nasjonalgalleriet, Oslo : ekte eller falsk?» Kunst og kultur 87 (2004): 107–16.</literature_reference>
         <literature_Page_Ref>107-116</literature_Page_Ref>
+        <literature_Year>2004</literature_Year>
+        <literature_Publisher></literature_Publisher>
+        <literature_Title>Selvportrett av Vincent van Gogh i Nasjonalgalleriet, Oslo : ekte eller falsk?</literature_Title>
+        <literature_Author>Lange, Marit Ingeborg</literature_Author>
+        <literature_PublishingPlace>Oslo</literature_PublishingPlace>
+        <literature_Type>Article in Journal</literature_Type>
+        <literature_HostDocument>Kunst og kultur</literature_HostDocument>
+        <literature_Volume>87</literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN></literature_ISBN>
+        <literature_ISSN>0023-5415</literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Bakker, Nienke, et al., red. «In the picture. Portraying the Artist». Amsterdam, 2020.</literature_reference>
         <literature_Page_Ref>158</literature_Page_Ref>
+        <literature_Year>2020</literature_Year>
+        <literature_Publisher>Thoth Publishers</literature_Publisher>
+        <literature_Title>In the picture. Portraying the Artist</literature_Title>
+        <literature_Author>Bakker, Nienke; Smit, Lisa</literature_Author>
+        <literature_PublishingPlace>Bussum</literature_PublishingPlace>
+        <literature_Type>Book</literature_Type>
+        <literature_HostDocument></literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>9789068688023</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
       <Literature>
-        <literature_reference>Hedström, Per, et al. «Falskt och äkta i det sena 1800-talets maåleri». Falskt &amp; Äkta, 2004, 151.</literature_reference>
         <literature_Page_Ref>151</literature_Page_Ref>
+        <literature_Year>2004</literature_Year>
+        <literature_Publisher>Nationalmuseum</literature_Publisher>
+        <literature_Title>Falskt och äkta i det sena 1800-talets måleri</literature_Title>
+        <literature_Author>Hedström, Per; Nilsson, Britta</literature_Author>
+        <literature_PublishingPlace>Stockholm</literature_PublishingPlace>
+        <literature_Type>Article in Book</literature_Type>
+        <literature_HostDocument>Falskt &amp; Äkta</literature_HostDocument>
+        <literature_Volume></literature_Volume>
+        <literature_Number></literature_Number>
+        <literature_ISBN>9171006885</literature_ISBN>
+        <literature_ISSN></literature_ISSN>
       </Literature>
     </LiteratureList>
     <MultimediaList>
